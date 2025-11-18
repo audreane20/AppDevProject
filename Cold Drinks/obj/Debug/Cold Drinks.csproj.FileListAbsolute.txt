@@ -1,0 +1,18 @@
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\bin\Debug\Cold Drinks.exe.config
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\bin\Debug\Cold Drinks.exe
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\bin\Debug\Cold Drinks.pdb
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\bin\Debug\MenuSetup.dll
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\bin\Debug\MenuSetup.pdb
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\bin\Debug\MenuSetup.dll.config
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\obj\Debug\Cold Drinks.csproj.AssemblyReference.cache
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\obj\Debug\Cold Drinks.exe.config
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\obj\Debug\Cold_Drinks.ColdDrinks.resources
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\obj\Debug\Cold_Drinks.Properties.Resources.resources
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\obj\Debug\Cold Drinks.csproj.GenerateResource.cache
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\obj\Debug\Cold Drinks.csproj.CoreCompileInputs.cache
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\obj\Debug\Cold Dri.45BD545E.Up2Date
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\obj\Debug\Cold Drinks.exe
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\obj\Debug\Cold Drinks.pdb
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\bin\Debug\Hot Drinks.exe
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\bin\Debug\Hot Drinks.pdb
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Cold Drinks\bin\Debug\Hot Drinks.exe.config

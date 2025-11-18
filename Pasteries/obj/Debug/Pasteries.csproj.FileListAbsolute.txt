@@ -1,0 +1,15 @@
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\bin\Debug\Pasteries.exe.config
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\bin\Debug\Pasteries.exe
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\bin\Debug\Pasteries.pdb
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\bin\Debug\MenuSetup.dll
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\bin\Debug\MenuSetup.pdb
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\bin\Debug\MenuSetup.dll.config
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\obj\Debug\Pasteries.csproj.AssemblyReference.cache
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\obj\Debug\Pasteries.exe.config
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\obj\Debug\Pasteries.Pasteries.resources
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\obj\Debug\Pasteries.Properties.Resources.resources
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\obj\Debug\Pasteries.csproj.GenerateResource.cache
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\obj\Debug\Pasteries.csproj.CoreCompileInputs.cache
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\obj\Debug\Pasteries.csproj.Up2Date
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\obj\Debug\Pasteries.exe
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Project\Pasteries\obj\Debug\Pasteries.pdb

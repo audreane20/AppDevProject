@@ -12,6 +12,7 @@ namespace MenuSetup
 {
     public partial class MenuSetup : Form
     {
+
         public MenuSetup()
         {
             InitializeComponent();
@@ -25,14 +26,17 @@ namespace MenuSetup
 
             Hot_Drinks.HotDrinks hotDrinksForm = new Hot_Drinks.HotDrinks();
             hotDrinksForm.Show();
+            this.Close();
         }
         private void coldDrinksToolStripMenuItem_Click(object sender, EventArgs e)
         {
             hotDrinksToolStripMenuItem.Checked = false;
             coldDrinksToolStripMenuItem.Checked = true;
             pastriesToolStripMenuItem.Checked = false;
+
             Cold_Drinks.ColdDrinks coldDrinksForm = new Cold_Drinks.ColdDrinks();
             coldDrinksForm.Show();
+            this.Close();
         }
 
         private void pastriesToolStripMenuItem_Click(object sender, EventArgs e)
@@ -40,8 +44,10 @@ namespace MenuSetup
             hotDrinksToolStripMenuItem.Checked = false;
             coldDrinksToolStripMenuItem.Checked = false;
             pastriesToolStripMenuItem.Checked = true;
+
             Pastries.Pastries pastriesForm = new Pastries.Pastries();
             pastriesForm.Show();
+            this.Close();
         }
     }
 }

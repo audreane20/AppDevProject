@@ -68,6 +68,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -81,6 +82,57 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SmoothieAvocado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SmoothieMango.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SmoothieStrawberry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lemonade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lemonadeFrozen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LemonadePink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrappuccinoChocolate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SizeSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SizeMed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IceCoffeeChocolate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iceCoffee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrappuccinoCaramel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frappuccino.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SmoothieBlueberry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LemonadeOrange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IceCoffeeCaramel.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

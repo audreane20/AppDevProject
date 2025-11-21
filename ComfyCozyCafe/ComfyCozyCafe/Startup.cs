@@ -35,7 +35,7 @@ namespace ComfyCozyCafe
             startButton.ForeColor = System.Drawing.ColorTranslator.FromHtml("#EBBA80");
             FirstMenu.FirstMenu menu = new FirstMenu.FirstMenu();
             menu.Show();
-
+            this.Hide();
         }
 
         private void Form1_Load(object sender, EventArgs e)

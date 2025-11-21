@@ -38,7 +38,7 @@
             this.Name = "HotDrinks";
             this.Text = "Hot Drinks";
             this.ResumeLayout(false);
-
+            
         }
 
         #endregion

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -33,7 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="MenuSetup">
+    <Reference Include="MenuSetup, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\MenuSetup\bin\Debug\MenuSetup.dll</HintPath>
     </Reference>
     <Reference Include="System" />
@@ -68,6 +69,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -81,6 +83,48 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pastry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Croissant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChocolateCroissant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chocolatine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DanishBlueberryCheesecake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Danish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DanishApple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DanishBlueberry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DanishPineapple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MuffinBlueberry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MuffinChocoChip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MuffinOrangeCranberry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MuffinDoubleChocoChip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MuffinCaramelBananaPecan.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

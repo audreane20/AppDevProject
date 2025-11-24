@@ -33,16 +33,19 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Cold Drinks">
+    <Reference Include="Cold Drinks, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\Cold Drinks\bin\Debug\Cold Drinks.exe</HintPath>
     </Reference>
-    <Reference Include="Hot Drinks">
+    <Reference Include="Hot Drinks, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\Hot Drinks\bin\Debug\Hot Drinks.exe</HintPath>
     </Reference>
     <Reference Include="MenuSetup">
       <HintPath>..\MenuSetup\bin\Debug\MenuSetup.dll</HintPath>
     </Reference>
-    <Reference Include="Pasteries">
+    <Reference Include="Pasteries, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\Pasteries\bin\Debug\Pasteries.exe</HintPath>
     </Reference>
     <Reference Include="System" />

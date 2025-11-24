@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace MenuSetup
@@ -24,8 +17,8 @@ namespace MenuSetup
             coldDrinksToolStripMenuItem.Checked = false;
             pastriesToolStripMenuItem.Checked = false;
 
-            Hot_Drinks.HotDrinks hotDrinksForm = new Hot_Drinks.HotDrinks();
-            hotDrinksForm.Show();
+            //Hot_Drinks.HotDrinks hotDrinksForm = new Hot_Drinks.HotDrinks();
+            //hotDrinksForm.Show();
             this.Close();
         }
         private void coldDrinksToolStripMenuItem_Click(object sender, EventArgs e)
@@ -34,8 +27,8 @@ namespace MenuSetup
             coldDrinksToolStripMenuItem.Checked = true;
             pastriesToolStripMenuItem.Checked = false;
 
-            Cold_Drinks.ColdDrinks coldDrinksForm = new Cold_Drinks.ColdDrinks();
-            coldDrinksForm.Show();
+            //Cold_Drinks.ColdDrinks coldDrinksForm = new Cold_Drinks.ColdDrinks();
+            //coldDrinksForm.Show();
             this.Close();
         }
 
@@ -45,8 +38,8 @@ namespace MenuSetup
             coldDrinksToolStripMenuItem.Checked = false;
             pastriesToolStripMenuItem.Checked = true;
 
-            Pastries.Pastries pastriesForm = new Pastries.Pastries();
-            pastriesForm.Show();
+            //Pastries.Pastries pastriesForm = new Pastries.Pastries();
+            //pastriesForm.Show();
             this.Close();
         }
     }

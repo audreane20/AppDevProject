@@ -36,6 +36,7 @@
             this.pastriesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cartToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.checkoutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.BackgroundPanel = new System.Windows.Forms.Panel();
             this.menuStrip.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -89,7 +90,7 @@
             // 
             // pastriesToolStripMenuItem
             // 
-            this.pastriesToolStripMenuItem.Image = global::MenuSetup.Properties.Resources.Pastery;
+            this.pastriesToolStripMenuItem.Image = global::MenuSetup.Properties.Resources.Pastry;
             this.pastriesToolStripMenuItem.Name = "pastriesToolStripMenuItem";
             this.pastriesToolStripMenuItem.Size = new System.Drawing.Size(225, 36);
             this.pastriesToolStripMenuItem.Text = "Pastries";
@@ -109,12 +110,22 @@
             this.checkoutToolStripMenuItem.Size = new System.Drawing.Size(127, 52);
             this.checkoutToolStripMenuItem.Text = "Checkout";
             // 
+            // BackgroundPanel
+            // 
+            this.BackgroundPanel.AutoScroll = true;
+            this.BackgroundPanel.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.BackgroundPanel.Location = new System.Drawing.Point(0, 56);
+            this.BackgroundPanel.Name = "BackgroundPanel";
+            this.BackgroundPanel.Size = new System.Drawing.Size(800, 394);
+            this.BackgroundPanel.TabIndex = 1;
+            // 
             // MenuSetup
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(236)))), ((int)(((byte)(187)))), ((int)(((byte)(129)))));
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.BackgroundPanel);
             this.Controls.Add(this.menuStrip);
             this.MainMenuStrip = this.menuStrip;
             this.Name = "MenuSetup";
@@ -135,6 +146,7 @@
         private System.Windows.Forms.ToolStripMenuItem pastriesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem cartToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem checkoutToolStripMenuItem;
+        private System.Windows.Forms.Panel BackgroundPanel;
     }
 }
 

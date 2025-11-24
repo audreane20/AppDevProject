@@ -83,9 +83,9 @@ namespace MenuSetup.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Pastery {
+        internal static System.Drawing.Bitmap Pastry {
             get {
-                object obj = ResourceManager.GetObject("Pastery", resourceCulture);
+                object obj = ResourceManager.GetObject("Pastry", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

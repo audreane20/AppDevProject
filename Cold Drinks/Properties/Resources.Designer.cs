@@ -173,6 +173,16 @@ namespace Cold_Drinks.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap SizeLarge {
+            get {
+                object obj = ResourceManager.GetObject("SizeLarge", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap SizeMed {
             get {
                 object obj = ResourceManager.GetObject("SizeMed", resourceCulture);

@@ -121,17 +121,17 @@
   <data name="SmoothieStrawberry" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SmoothieStrawberry.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="SmoothieBlueberry" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SmoothieBlueberry.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="IceCoffeeCaramel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IceCoffeeCaramel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SizeMed" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SizeMed.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="SmoothieAvocado" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SmoothieAvocado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="SmoothieMango" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SmoothieMango.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SizeLarge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SizeLarge.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LemonadeOrange" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\LemonadeOrange.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -142,6 +142,9 @@
   <data name="FrappuccinoCaramel" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\FrappuccinoCaramel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="lemonadeFrozen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lemonadeFrozen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="IceCoffeeChocolate" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\IceCoffeeChocolate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -151,8 +154,8 @@
   <data name="iceCoffee" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\iceCoffee.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="FrappuccinoChocolate" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\FrappuccinoChocolate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Frappuccino" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frappuccino.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Lemonade" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Lemonade.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -160,13 +163,13 @@
   <data name="SizeSmall" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SizeSmall.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="lemonadeFrozen" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\lemonadeFrozen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="SmoothieAvocado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SmoothieAvocado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Frappuccino" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Frappuccino.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="SmoothieBlueberry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SmoothieBlueberry.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="IceCoffeeCaramel" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\IceCoffeeCaramel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="FrappuccinoChocolate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FrappuccinoChocolate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

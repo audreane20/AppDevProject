@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -68,6 +68,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -81,6 +82,51 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconSteam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coffee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CoffeeLatte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CoffeeCappuccino.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CoffeeAmericano.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HotChocolate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhiteHotChocolate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SizeSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SizeMed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SizeLarge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TeaBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TeaGreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TeaHibiscus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TeaMint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TeaRaspberry.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

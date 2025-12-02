@@ -1,0 +1,19 @@
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\bin\Debug\Comfy Cozy Cafe.exe.config
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\bin\Debug\Comfy Cozy Cafe.exe
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\bin\Debug\Comfy Cozy Cafe.pdb
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\obj\Debug\Comfy Cozy Cafe.csproj.AssemblyReference.cache
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\obj\Debug\Comfy_Cozy_Cafe.Properties.Resources.resources
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\obj\Debug\Comfy_Cozy_Cafe.StartUp.resources
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\obj\Debug\Comfy Cozy Cafe.csproj.GenerateResource.cache
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\obj\Debug\Comfy Cozy Cafe.csproj.CoreCompileInputs.cache
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\obj\Debug\Comfy Cozy Cafe.exe
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\obj\Debug\Comfy Cozy Cafe.pdb
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\obj\Debug\Comfy Cozy Cafe.exe.config
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\obj\Debug\Comfy_Cozy_Cafe.FirstMenu.resources
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\bin\Debug\Menus.exe
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\bin\Debug\MenuSetup.dll
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\bin\Debug\Menus.pdb
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\bin\Debug\Menus.exe.config
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\bin\Debug\MenuSetup.pdb
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\bin\Debug\MenuSetup.dll.config
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\obj\Debug\Comfy Co.F8C546F9.Up2Date

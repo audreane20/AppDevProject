@@ -1,0 +1,1038 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1013, 554</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarPic.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;SweetnerPic.Name" xml:space="preserve">
+    <value>SweetnerPic</value>
+  </data>
+  <data name="&gt;&gt;SweetnerPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="MilkLabel.Text" xml:space="preserve">
+    <value>Milk 2%</value>
+  </data>
+  <data name="WhiteSugarLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9pt</value>
+  </data>
+  <data name="Cream10Pic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>213, 33</value>
+  </data>
+  <data name="&gt;&gt;SweetnerQTY.Name" xml:space="preserve">
+    <value>SweetnerQTY</value>
+  </data>
+  <data name="&gt;&gt;Cream18Pic.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="WhiteSugarQTYLabel.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="&gt;&gt;MilkLabel.Name" xml:space="preserve">
+    <value>MilkLabel</value>
+  </data>
+  <data name="BrownSugarQTY.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9.75pt</value>
+  </data>
+  <data name="&gt;&gt;Cream1QTYLabel.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;SweetnerQTY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="AddOnsAddToCart.Text" xml:space="preserve">
+    <value>Add to Cart</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="SweetnerQTYLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>53</value>
+  </data>
+  <data name="&gt;&gt;Cream2QTYLabel.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Cream18Pic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="SweetnerLabel.Text" xml:space="preserve">
+    <value>Sweetner</value>
+  </data>
+  <data name="WhiteSugarLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="Cream10Pic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="BrownSugarPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarQTYLabel.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="MilkQTY.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9.75pt</value>
+  </data>
+  <data name="Cream10Pic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="SweetnerLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>58</value>
+  </data>
+  <data name="MilkQTYLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 153</value>
+  </data>
+  <data name="&gt;&gt;ItemAddOnsQTY.Name" xml:space="preserve">
+    <value>ItemAddOnsQTY</value>
+  </data>
+  <data name="MilkPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="Cream10QTY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>272, 146</value>
+  </data>
+  <data name="ChosenItemPic.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="MilkLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
+  </data>
+  <data name="ItemAddOnsQTY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="BrownSugarPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 85</value>
+  </data>
+  <data name="&gt;&gt;SweetnerLabel.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;MilkLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="WhiteSugarLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="SweetnerQTYLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9.75pt</value>
+  </data>
+  <data name="Cream2QTYLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="MilkPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="SweetnerQTYLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>381, 338</value>
+  </data>
+  <data name="MilkQTY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 30</value>
+  </data>
+  <data name="AddOnsAddToCart.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12pt</value>
+  </data>
+  <data name="Cream10QTY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 30</value>
+  </data>
+  <data name="&gt;&gt;Cream1QTYLabel.Name" xml:space="preserve">
+    <value>Cream1QTYLabel</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarLabel.Name" xml:space="preserve">
+    <value>BrownSugarLabel</value>
+  </data>
+  <data name="SweetnerLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9pt</value>
+  </data>
+  <data name="&gt;&gt;AddOnsQTYLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;AddOnsQTYLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ItemAddOnsQTY.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Cream18QTY.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="BrownSugarQTYLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>185, 338</value>
+  </data>
+  <data name="MilkLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9pt</value>
+  </data>
+  <data name="AddOnsGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>376, 71</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarQTYLabel.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarQTY.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="Cream2Label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>393, 122</value>
+  </data>
+  <data name="&gt;&gt;Cream2QTYLabel.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;SweetnerQTYLabel.Name" xml:space="preserve">
+    <value>SweetnerQTYLabel</value>
+  </data>
+  <data name="Cream1Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;MilkQTY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Cream18QTY.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="&gt;&gt;MilkPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="MilkLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;MilkQTYLabel.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="MilkQTYLabel.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="SweetnerQTY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>468, 334</value>
+  </data>
+  <data name="BrownSugarLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 22</value>
+  </data>
+  <data name="Cream1QTYLabel.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="&gt;&gt;Cream2Label.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>AddOns</value>
+  </data>
+  <data name="AddOnsGroupBox.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarLabel.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="AddOnsQTYLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;Cream10Pic.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BrownSugarPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;AddOnsGroupBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;AddOnsQTYLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarPic.Name" xml:space="preserve">
+    <value>BrownSugarPic</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MilkPic.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarPic.Name" xml:space="preserve">
+    <value>WhiteSugarPic</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarLabel.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="Cream1QTYLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9.75pt</value>
+  </data>
+  <data name="ChosenItemPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;MilkQTY.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarQTY.Name" xml:space="preserve">
+    <value>BrownSugarQTY</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarQTYLabel.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="BrownSugarPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="AddOnsQTYLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="SweetnerPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="BrownSugarLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;Cream10Pic.Name" xml:space="preserve">
+    <value>Cream10Pic</value>
+  </data>
+  <data name="&gt;&gt;Cream18QTY.Name" xml:space="preserve">
+    <value>Cream18QTY</value>
+  </data>
+  <data name="Cream2Label.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;Cream1Label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="MilkLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 22</value>
+  </data>
+  <data name="AddOnsGroupBox.Text" xml:space="preserve">
+    <value>Add Ons</value>
+  </data>
+  <data name="AddOnsQTYLabel.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="MilkLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="WhiteSugarQTYLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 24</value>
+  </data>
+  <data name="SweetnerQTYLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;AddOnsAddToCart.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="MilkQTYLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9.75pt</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarQTYLabel.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="WhiteSugarQTYLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarQTY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="WhiteSugarPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 222</value>
+  </data>
+  <data name="ItemAddOnsQTY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 35</value>
+  </data>
+  <data name="MilkQTYLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 24</value>
+  </data>
+  <data name="BrownSugarQTYLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9.75pt</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarQTYLabel.Name" xml:space="preserve">
+    <value>BrownSugarQTYLabel</value>
+  </data>
+  <data name="SweetnerPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 85</value>
+  </data>
+  <data name="&gt;&gt;ChosenItemPic.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Cream18QTY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 30</value>
+  </data>
+  <data name="Cream2QTYLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 24</value>
+  </data>
+  <data name="AddOnsAddToCart.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="SweetnerLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="SweetnerQTY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 30</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Add Ons</value>
+  </data>
+  <data name="BrownSugarQTY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 30</value>
+  </data>
+  <data name="&gt;&gt;SweetnerPic.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="WhiteSugarLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 309</value>
+  </data>
+  <data name="&gt;&gt;AddOnsGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="SweetnerPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;AddOnsQTYLabel.Name" xml:space="preserve">
+    <value>AddOnsQTYLabel</value>
+  </data>
+  <data name="BrownSugarPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>213, 220</value>
+  </data>
+  <data name="&gt;&gt;Cream18QTY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Cream2Label.Name" xml:space="preserve">
+    <value>Cream2Label</value>
+  </data>
+  <data name="WhiteSugarQTY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>100, 337</value>
+  </data>
+  <data name="WhiteSugarQTYLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>55</value>
+  </data>
+  <data name="Cream1Label.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="AddOnsQTYLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 28</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="&gt;&gt;Cream10QTY.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;Cream1Label.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;Cream2QTYLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="SweetnerPic.TabIndex" type="System.Int32, mscorlib">
+    <value>60</value>
+  </data>
+  <data name="&gt;&gt;ChosenItemPic.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="SweetnerLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>393, 309</value>
+  </data>
+  <data name="&gt;&gt;MilkQTY.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;ChosenItemPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="SweetnerQTYLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 24</value>
+  </data>
+  <data name="ChosenItemPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>36, 71</value>
+  </data>
+  <data name="ItemAddOnsQTY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>153, 318</value>
+  </data>
+  <data name="&gt;&gt;SweetnerLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarQTY.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarPic.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Cream18Pic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 85</value>
+  </data>
+  <data name="&gt;&gt;ItemAddOnsQTY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarQTYLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Cream18Pic.Name" xml:space="preserve">
+    <value>Cream18Pic</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarLabel.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="WhiteSugarQTY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 30</value>
+  </data>
+  <data name="Cream1Label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9pt</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Cream10QTY.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="&gt;&gt;Cream18QTY.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="Cream10QTY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="BrownSugarQTY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>272, 334</value>
+  </data>
+  <data name="AddOnsAddToCart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="MilkPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="WhiteSugarPic.TabIndex" type="System.Int32, mscorlib">
+    <value>57</value>
+  </data>
+  <data name="Cream10QTY.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9.75pt</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ChosenItemPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="SweetnerQTY.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9.75pt</value>
+  </data>
+  <data name="AddOnsQTYLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="AddOnsAddToCart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>57, 386</value>
+  </data>
+  <data name="MilkQTYLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;SweetnerLabel.Name" xml:space="preserve">
+    <value>SweetnerLabel</value>
+  </data>
+  <data name="ItemAddOnsQTY.TabIndex" type="System.Int32, mscorlib">
+    <value>42</value>
+  </data>
+  <data name="MilkQTY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>100, 150</value>
+  </data>
+  <data name="BrownSugarLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>212, 309</value>
+  </data>
+  <data name="MilkQTY.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="Cream2QTYLabel.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="Cream1Label.TabIndex" type="System.Int32, mscorlib">
+    <value>46</value>
+  </data>
+  <data name="MilkPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 85</value>
+  </data>
+  <data name="ChosenItemPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>221, 213</value>
+  </data>
+  <data name="Cream1QTYLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 24</value>
+  </data>
+  <data name="WhiteSugarQTY.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9.75pt</value>
+  </data>
+  <data name="WhiteSugarPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 85</value>
+  </data>
+  <data name="Cream2Label.Text" xml:space="preserve">
+    <value>Cream 18%</value>
+  </data>
+  <data name="BrownSugarQTYLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="AddOnsGroupBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12pt</value>
+  </data>
+  <data name="Cream2Label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9pt</value>
+  </data>
+  <data name="WhiteSugarQTY.TabIndex" type="System.Int32, mscorlib">
+    <value>54</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarPic.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="SweetnerQTY.TabIndex" type="System.Int32, mscorlib">
+    <value>52</value>
+  </data>
+  <data name="Cream10Pic.TabIndex" type="System.Int32, mscorlib">
+    <value>49</value>
+  </data>
+  <data name="BrownSugarQTYLabel.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="AddOnsQTYLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12pt</value>
+  </data>
+  <data name="&gt;&gt;ItemAddOnsQTY.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;AddOnsAddToCart.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Cream18Pic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;Cream1Label.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="AddOnsQTYLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>52, 319</value>
+  </data>
+  <data name="SweetnerLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 22</value>
+  </data>
+  <data name="&gt;&gt;MilkPic.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;Cream18Pic.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="AddOnsAddToCart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 69</value>
+  </data>
+  <data name="&gt;&gt;MilkQTYLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BrownSugarLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="WhiteSugarPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;Cream10QTY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SweetnerQTY.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;Cream18Pic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Cream1Label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 22</value>
+  </data>
+  <data name="Cream18Pic.TabIndex" type="System.Int32, mscorlib">
+    <value>48</value>
+  </data>
+  <data name="BrownSugarLabel.Text" xml:space="preserve">
+    <value>Brown Sugar</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarPic.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;AddOnsGroupBox.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Cream1QTYLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="BrownSugarQTY.TabIndex" type="System.Int32, mscorlib">
+    <value>50</value>
+  </data>
+  <data name="&gt;&gt;MilkQTY.Name" xml:space="preserve">
+    <value>MilkQTY</value>
+  </data>
+  <data name="&gt;&gt;SweetnerPic.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="SweetnerQTYLabel.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarQTY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Cream1QTYLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>185, 151</value>
+  </data>
+  <data name="&gt;&gt;AddOnsAddToCart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Cream2Label.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;Cream2QTYLabel.Name" xml:space="preserve">
+    <value>Cream2QTYLabel</value>
+  </data>
+  <data name="SweetnerQTY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="SweetnerPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarQTYLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Cream1Label.Name" xml:space="preserve">
+    <value>Cream1Label</value>
+  </data>
+  <data name="SweetnerPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>399, 222</value>
+  </data>
+  <data name="MilkLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>40, 122</value>
+  </data>
+  <data name="&gt;&gt;SweetnerQTYLabel.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="MilkQTYLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="BrownSugarPic.TabIndex" type="System.Int32, mscorlib">
+    <value>61</value>
+  </data>
+  <data name="SweetnerQTYLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;Cream10QTY.Name" xml:space="preserve">
+    <value>Cream10QTY</value>
+  </data>
+  <data name="MilkPic.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="&gt;&gt;SweetnerQTY.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;Cream1QTYLabel.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="BrownSugarQTYLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 24</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarQTY.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="BrownSugarQTYLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="SweetnerLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="AddOnsAddToCart.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="Cream2QTYLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;MilkQTYLabel.Name" xml:space="preserve">
+    <value>MilkQTYLabel</value>
+  </data>
+  <data name="Cream1QTYLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Cream18QTY.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9.75pt</value>
+  </data>
+  <data name="WhiteSugarPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarQTY.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="Cream18QTY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;SweetnerQTYLabel.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;ChosenItemPic.Name" xml:space="preserve">
+    <value>ChosenItemPic</value>
+  </data>
+  <data name="Cream2Label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 22</value>
+  </data>
+  <data name="&gt;&gt;SweetnerQTYLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Cream18Pic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="WhiteSugarQTYLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9.75pt</value>
+  </data>
+  <data name="MilkPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 34</value>
+  </data>
+  <data name="ChosenItemPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="Cream2Label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="WhiteSugarPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;Cream10Pic.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;MilkPic.Name" xml:space="preserve">
+    <value>MilkPic</value>
+  </data>
+  <data name="Cream18Pic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>399, 34</value>
+  </data>
+  <data name="&gt;&gt;MilkQTYLabel.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="WhiteSugarQTYLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Cream2QTYLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Cream10QTY.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;AddOnsGroupBox.Name" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="WhiteSugarQTYLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 340</value>
+  </data>
+  <data name="WhiteSugarLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 22</value>
+  </data>
+  <data name="Cream2Label.TabIndex" type="System.Int32, mscorlib">
+    <value>45</value>
+  </data>
+  <data name="AddOnsGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>568, 393</value>
+  </data>
+  <data name="ItemAddOnsQTY.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12pt</value>
+  </data>
+  <data name="BrownSugarLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9pt</value>
+  </data>
+  <data name="&gt;&gt;MilkLabel.Parent" xml:space="preserve">
+    <value>AddOnsGroupBox</value>
+  </data>
+  <data name="MilkQTY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="WhiteSugarLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>56</value>
+  </data>
+  <data name="Cream2QTYLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9.75pt</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarQTYLabel.Name" xml:space="preserve">
+    <value>WhiteSugarQTYLabel</value>
+  </data>
+  <data name="Cream1QTYLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Cream10Pic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 85</value>
+  </data>
+  <data name="&gt;&gt;Cream1QTYLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarLabel.Name" xml:space="preserve">
+    <value>WhiteSugarLabel</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Cream2QTYLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>381, 151</value>
+  </data>
+  <data name="&gt;&gt;WhiteSugarQTY.Name" xml:space="preserve">
+    <value>WhiteSugarQTY</value>
+  </data>
+  <data name="AddOnsGroupBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="WhiteSugarLabel.Text" xml:space="preserve">
+    <value>White Sugar</value>
+  </data>
+  <data name="BrownSugarQTY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;Cream10Pic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="MilkQTYLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;MilkLabel.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="BrownSugarQTYLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;SweetnerLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AddOnsAddToCart.Name" xml:space="preserve">
+    <value>AddOnsAddToCart</value>
+  </data>
+  <data name="Cream18QTY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>468, 146</value>
+  </data>
+  <data name="Cream10Pic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;BrownSugarLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Cream1Label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>212, 122</value>
+  </data>
+  <data name="AddOnsGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="BrownSugarLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>59</value>
+  </data>
+  <data name="WhiteSugarQTY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;Cream2Label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Cream1Label.Text" xml:space="preserve">
+    <value>Cream 10%</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>

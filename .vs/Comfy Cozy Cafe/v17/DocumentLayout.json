@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menus\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menus\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Checkout.cs",
+              "RelativeDocumentMoniker": "Menus\\Checkout.cs",
+              "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Checkout.cs",
+              "RelativeToolTip": "Menus\\Checkout.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:13:27.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Checkout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Checkout.cs",
+              "RelativeDocumentMoniker": "Menus\\Checkout.cs",
+              "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Checkout.cs [Design]",
+              "RelativeToolTip": "Menus\\Checkout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:13:22.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Cart.cs",
+              "RelativeDocumentMoniker": "Menus\\Cart.cs",
+              "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Cart.cs [Design]",
+              "RelativeToolTip": "Menus\\Cart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:12:52.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

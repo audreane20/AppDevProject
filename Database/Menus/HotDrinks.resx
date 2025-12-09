@@ -1,0 +1,1776 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="CoffeeAddToCart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 57</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="choiceTeaGB.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;HotChocoQTYLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeaQTYLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="AmericanoPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 34</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="CappuccinoPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="HotDrinksTitleLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 19.8pt</value>
+  </data>
+  <data name="&gt;&gt;choicehotChocoGB.Parent" xml:space="preserve">
+    <value>HotChocoGroupBox</value>
+  </data>
+  <data name="CappuccinoPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="TeaQTY.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="HotChocoQTY.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;TeaGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BackgroundPanel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="TeaGreenLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 185</value>
+  </data>
+  <data name="TeaGroupBox.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;HotChocoMed.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoffeeGroupBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="CoffeeLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 185</value>
+  </data>
+  <data name="WhiteHotChocoLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 47</value>
+  </data>
+  <data name="&gt;&gt;TeaQTYLabel.Parent" xml:space="preserve">
+    <value>choiceTeaGB</value>
+  </data>
+  <data name="&gt;&gt;TeaQTYLabel.Name" xml:space="preserve">
+    <value>TeaQTYLabel</value>
+  </data>
+  <data name="HotChocoSmall.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;HotChocoMed.Parent" xml:space="preserve">
+    <value>choicehotChocoGB</value>
+  </data>
+  <data name="HotChocoMed.Location" type="System.Drawing.Point, System.Drawing">
+    <value>90, 24</value>
+  </data>
+  <data name="&gt;&gt;CoffeeLarge.Parent" xml:space="preserve">
+    <value>choicesGB1</value>
+  </data>
+  <data name="&gt;&gt;SteamIcon1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeaSmall.Name" xml:space="preserve">
+    <value>TeaSmall</value>
+  </data>
+  <data name="SteamIcon2.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;BlackTeaPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;choicehotChocoGB.Name" xml:space="preserve">
+    <value>choicehotChocoGB</value>
+  </data>
+  <data name="&gt;&gt;CoffeePic.Name" xml:space="preserve">
+    <value>CoffeePic</value>
+  </data>
+  <data name="CoffeeLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="BlackTeaPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CappuccinoPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>393, 34</value>
+  </data>
+  <data name="MintTeaPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 34</value>
+  </data>
+  <data name="&gt;&gt;TeaHibiscusLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LatteLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="HotChocoPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="CoffeeAddOns.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="&gt;&gt;HotChocoPriceLabel.Name" xml:space="preserve">
+    <value>HotChocoPriceLabel</value>
+  </data>
+  <data name="AmericanoPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;TeaGroupBox.Name" xml:space="preserve">
+    <value>TeaGroupBox</value>
+  </data>
+  <data name="&gt;&gt;LattePic.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="TeaAddToCart.Text" xml:space="preserve">
+    <value>Add to Cart</value>
+  </data>
+  <data name="MintTeaPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;HotChocoPic.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="WhiteHotChocoLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="TeaMintLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="HotChocoMed.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;RaspberryTeaPic.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;HotChocoAddToCart.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;choicesGB1.Name" xml:space="preserve">
+    <value>choicesGB1</value>
+  </data>
+  <data name="TeaSmall.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="choicehotChocoGB.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="GreenTeaPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="HibiscusTeaPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;HotChocoLabel.Parent" xml:space="preserve">
+    <value>HotChocoGroupBox</value>
+  </data>
+  <data name="&gt;&gt;TeaGreenLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CoffeePic.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="TeaHibiscusLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 37</value>
+  </data>
+  <data name="HotDrinksTitleLabel.Text" xml:space="preserve">
+    <value>Hot Drinks</value>
+  </data>
+  <data name="TeaAddToCart.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="TeaQTYLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="HotChocoPriceLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CoffeeLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 37</value>
+  </data>
+  <data name="&gt;&gt;HotChocoLarge.Name" xml:space="preserve">
+    <value>HotChocoLarge</value>
+  </data>
+  <data name="WhiteHotChocoPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>395, 34</value>
+  </data>
+  <data name="GreenTeaPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;HotChocoAddToCart.Parent" xml:space="preserve">
+    <value>choicehotChocoGB</value>
+  </data>
+  <data name="TeaSmall.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;CoffeePic.Parent" xml:space="preserve">
+    <value>CoffeeGroupBox</value>
+  </data>
+  <data name="&gt;&gt;WhiteHotChocoLabel.Parent" xml:space="preserve">
+    <value>HotChocoGroupBox</value>
+  </data>
+  <data name="HotChocoMed.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LatteLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;MintTeaPic.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="HotChocoQTYLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="HotChocoPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 34</value>
+  </data>
+  <data name="&gt;&gt;choicesGB1.Parent" xml:space="preserve">
+    <value>CoffeeGroupBox</value>
+  </data>
+  <data name="HibiscusTeaPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="AmericanoLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="TeaBlackLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="CappuccinoPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="AmericanoLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="CoffeePic.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;HotChocoSmall.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;choicesGB1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LatteLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;TeaHibiscusLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="WhiteHotChocoPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="&gt;&gt;TeaPriceLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;CoffeeQTYLabel.Name" xml:space="preserve">
+    <value>CoffeeQTYLabel</value>
+  </data>
+  <data name="&gt;&gt;CoffeeAddToCart.Name" xml:space="preserve">
+    <value>CoffeeAddToCart</value>
+  </data>
+  <data name="SteamIcon1.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;HotDrinksTitleLabel.Parent" xml:space="preserve">
+    <value>BackgroundPanel</value>
+  </data>
+  <data name="TeaAddOns.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 50</value>
+  </data>
+  <data name="CoffeeLarge.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="HotDrinksTitleLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>269, 62</value>
+  </data>
+  <data name="&gt;&gt;CoffeeQTYLabel.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;CoffeeQTYLabel.Parent" xml:space="preserve">
+    <value>choicesGB1</value>
+  </data>
+  <data name="SteamIcon2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;HotChocoQTY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoffeePriceLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 39</value>
+  </data>
+  <data name="LattePic.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="TeaQTY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>381, 43</value>
+  </data>
+  <data name="CoffeeGroupBox.Text" xml:space="preserve">
+    <value>Classics Coffees</value>
+  </data>
+  <data name="HotDrinksTitleLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;CappuccinoPic.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="choiceTeaGB.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1741, 693</value>
+  </data>
+  <data name="HotChocoLarge.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="HotChocoGroupBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12pt</value>
+  </data>
+  <data name="choiceTeaGB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>953, 100</value>
+  </data>
+  <data name="&gt;&gt;HotChocoGroupBox.Name" xml:space="preserve">
+    <value>HotChocoGroupBox</value>
+  </data>
+  <data name="&gt;&gt;AmericanoLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;LattePic.Parent" xml:space="preserve">
+    <value>CoffeeGroupBox</value>
+  </data>
+  <data name="BackgroundPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 58</value>
+  </data>
+  <data name="GreenTeaPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 34</value>
+  </data>
+  <data name="MintTeaPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="HotChocoPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;RaspberryTeaPic.Parent" xml:space="preserve">
+    <value>TeaGroupBox</value>
+  </data>
+  <data name="&gt;&gt;TeaQTY.Name" xml:space="preserve">
+    <value>TeaQTY</value>
+  </data>
+  <data name="&gt;&gt;CoffeeGroupBox.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;SteamIcon2.Parent" xml:space="preserve">
+    <value>BackgroundPanel</value>
+  </data>
+  <data name="&gt;&gt;CoffeeQTY.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;CoffeeSmall.Parent" xml:space="preserve">
+    <value>choicesGB1</value>
+  </data>
+  <data name="CoffeeAddToCart.Text" xml:space="preserve">
+    <value>Add to Cart</value>
+  </data>
+  <data name="HotChocoSmall.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 24</value>
+  </data>
+  <data name="&gt;&gt;TeaQTY.Parent" xml:space="preserve">
+    <value>choiceTeaGB</value>
+  </data>
+  <data name="CoffeeSmall.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="CoffeeLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;GreenTeaPic.Name" xml:space="preserve">
+    <value>GreenTeaPic</value>
+  </data>
+  <data name="BlackTeaPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="SteamIcon2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;TeaAddOns.Name" xml:space="preserve">
+    <value>TeaAddOns</value>
+  </data>
+  <data name="MintTeaPic.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;choiceTeaGB.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;HotChocoMed.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="TeaGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>964, 329</value>
+  </data>
+  <data name="TeaGroupBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;HotChocoLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeaMed.Name" xml:space="preserve">
+    <value>TeaMed</value>
+  </data>
+  <data name="SteamIcon1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>648, 23</value>
+  </data>
+  <data name="&gt;&gt;HibiscusTeaPic.Parent" xml:space="preserve">
+    <value>TeaGroupBox</value>
+  </data>
+  <data name="TeaBlackLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="RaspberryTeaPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="&gt;&gt;CoffeeLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CappuccinoPic.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;TeaRaspberryLabel.Name" xml:space="preserve">
+    <value>TeaRaspberryLabel</value>
+  </data>
+  <data name="&gt;&gt;choicehotChocoGB.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="RaspberryTeaPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="HotChocoQTY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 35</value>
+  </data>
+  <data name="&gt;&gt;TeaPriceLabel.Name" xml:space="preserve">
+    <value>TeaPriceLabel</value>
+  </data>
+  <data name="CoffeeQTY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>367, 45</value>
+  </data>
+  <data name="&gt;&gt;LatteLabel.Name" xml:space="preserve">
+    <value>LatteLabel</value>
+  </data>
+  <data name="TeaGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="LattePic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="SteamIcon2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="TeaHibiscusLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="CoffeeAddToCart.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="&gt;&gt;SteamIcon2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;CoffeeAddOns.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="WhiteHotChocoLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="TeaPriceLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 39</value>
+  </data>
+  <data name="CoffeeQTY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 35</value>
+  </data>
+  <data name="choicehotChocoGB.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;SteamIcon2.Name" xml:space="preserve">
+    <value>SteamIcon2</value>
+  </data>
+  <data name="&gt;&gt;CoffeeQTY.Parent" xml:space="preserve">
+    <value>choicesGB1</value>
+  </data>
+  <data name="TeaMintLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 185</value>
+  </data>
+  <data name="&gt;&gt;TeaHibiscusLabel.Parent" xml:space="preserve">
+    <value>TeaGroupBox</value>
+  </data>
+  <data name="&gt;&gt;TeaQTY.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;CoffeeLarge.Name" xml:space="preserve">
+    <value>CoffeeLarge</value>
+  </data>
+  <data name="&gt;&gt;CoffeeLabel.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="WhiteHotChocoLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="HibiscusTeaPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;LattePic.Name" xml:space="preserve">
+    <value>LattePic</value>
+  </data>
+  <data name="CoffeeLabel.Text" xml:space="preserve">
+    <value>Coffee</value>
+  </data>
+  <data name="HotChocoLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="TeaHibiscusLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="HotChocoLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="TeaSmall.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 71</value>
+  </data>
+  <data name="HotChocoSmall.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 71</value>
+  </data>
+  <data name="CoffeePriceLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>472, 41</value>
+  </data>
+  <data name="TeaQTYLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>280, 44</value>
+  </data>
+  <data name="&gt;&gt;HotChocoPriceLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="HotChocoGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>933, 98</value>
+  </data>
+  <data name="&gt;&gt;TeaGroupBox.Parent" xml:space="preserve">
+    <value>BackgroundPanel</value>
+  </data>
+  <data name="&gt;&gt;SteamIcon1.Name" xml:space="preserve">
+    <value>SteamIcon1</value>
+  </data>
+  <data name="CoffeeAddOns.Text" xml:space="preserve">
+    <value>Add Ons</value>
+  </data>
+  <data name="&gt;&gt;CappuccinoLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CoffeeMed.Parent" xml:space="preserve">
+    <value>choicesGB1</value>
+  </data>
+  <data name="TeaQTYLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="HotChocoAddToCart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>529, 36</value>
+  </data>
+  <data name="TeaQTYLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 28</value>
+  </data>
+  <data name="&gt;&gt;BlackTeaPic.Parent" xml:space="preserve">
+    <value>TeaGroupBox</value>
+  </data>
+  <data name="CoffeeGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>795, 329</value>
+  </data>
+  <data name="TeaAddToCart.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="&gt;&gt;BackgroundPanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="TeaLarge.Location" type="System.Drawing.Point, System.Drawing">
+    <value>169, 24</value>
+  </data>
+  <data name="choicesGB1.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="&gt;&gt;GreenTeaPic.Parent" xml:space="preserve">
+    <value>TeaGroupBox</value>
+  </data>
+  <data name="&gt;&gt;CoffeeGroupBox.Name" xml:space="preserve">
+    <value>CoffeeGroupBox</value>
+  </data>
+  <data name="&gt;&gt;TeaGroupBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;CappuccinoPic.Name" xml:space="preserve">
+    <value>CappuccinoPic</value>
+  </data>
+  <data name="CoffeeAddToCart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>190, 38</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="TeaGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>417, 477</value>
+  </data>
+  <data name="AmericanoLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;CoffeePriceLabel.Name" xml:space="preserve">
+    <value>CoffeePriceLabel</value>
+  </data>
+  <data name="LattePic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="&gt;&gt;AmericanoPic.Name" xml:space="preserve">
+    <value>AmericanoPic</value>
+  </data>
+  <data name="TeaRaspberryLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>780, 185</value>
+  </data>
+  <data name="&gt;&gt;SteamIcon2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoffeeLarge.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 24</value>
+  </data>
+  <data name="&gt;&gt;HotDrinksTitleLabel.Name" xml:space="preserve">
+    <value>HotDrinksTitleLabel</value>
+  </data>
+  <data name="&gt;&gt;TeaHibiscusLabel.Name" xml:space="preserve">
+    <value>TeaHibiscusLabel</value>
+  </data>
+  <data name="&gt;&gt;MintTeaPic.Name" xml:space="preserve">
+    <value>MintTeaPic</value>
+  </data>
+  <data name="TeaRaspberryLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="CoffeeGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>62, 98</value>
+  </data>
+  <data name="CoffeeLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="TeaBlackLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;HotChocoQTY.Parent" xml:space="preserve">
+    <value>choicehotChocoGB</value>
+  </data>
+  <data name="&gt;&gt;HotDrinksTitleLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CappuccinoLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="CappuccinoLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 37</value>
+  </data>
+  <data name="&gt;&gt;TeaPriceLabel.Parent" xml:space="preserve">
+    <value>choiceTeaGB</value>
+  </data>
+  <data name="choicesGB1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 225</value>
+  </data>
+  <data name="HotChocoLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>206, 185</value>
+  </data>
+  <data name="HibiscusTeaPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>393, 34</value>
+  </data>
+  <data name="&gt;&gt;choiceTeaGB.Name" xml:space="preserve">
+    <value>choiceTeaGB</value>
+  </data>
+  <data name="&gt;&gt;CoffeePriceLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="choicehotChocoGB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 224</value>
+  </data>
+  <data name="HotChocoGroupBox.Text" xml:space="preserve">
+    <value>Hot Chocolates</value>
+  </data>
+  <data name="&gt;&gt;CoffeeLarge.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TeaRaspberryLabel.Text" xml:space="preserve">
+    <value>Raspberry</value>
+  </data>
+  <data name="&gt;&gt;GreenTeaPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TeaGreenLabel.Text" xml:space="preserve">
+    <value>Green</value>
+  </data>
+  <data name="TeaMed.Location" type="System.Drawing.Point, System.Drawing">
+    <value>89, 24</value>
+  </data>
+  <data name="&gt;&gt;CoffeePriceLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="LattePic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CoffeeMed.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 71</value>
+  </data>
+  <data name="HotChocoLarge.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CappuccinoPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="CoffeeSmall.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="HotChocoLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 37</value>
+  </data>
+  <data name="&gt;&gt;TeaMintLabel.Name" xml:space="preserve">
+    <value>TeaMintLabel</value>
+  </data>
+  <data name="&gt;&gt;WhiteHotChocoLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="WhiteHotChocoLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>395, 185</value>
+  </data>
+  <data name="CoffeeGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;TeaLarge.Name" xml:space="preserve">
+    <value>TeaLarge</value>
+  </data>
+  <data name="CoffeeMed.Location" type="System.Drawing.Point, System.Drawing">
+    <value>90, 24</value>
+  </data>
+  <data name="WhiteHotChocoPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="TeaMed.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="WhiteHotChocoLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="TeaAddToCart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>746, 33</value>
+  </data>
+  <data name="&gt;&gt;HotChocoSmall.Name" xml:space="preserve">
+    <value>HotChocoSmall</value>
+  </data>
+  <data name="&gt;&gt;CoffeeMed.Name" xml:space="preserve">
+    <value>CoffeeMed</value>
+  </data>
+  <data name="BlackTeaPic.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="TeaHibiscusLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>393, 185</value>
+  </data>
+  <data name="LatteLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 185</value>
+  </data>
+  <data name="LatteLabel.Text" xml:space="preserve">
+    <value>Latte</value>
+  </data>
+  <data name="&gt;&gt;CappuccinoPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TeaSmall.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;HotChocoLarge.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoffeeLarge.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 71</value>
+  </data>
+  <data name="HotChocoPic.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="CoffeePic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;WhiteHotChocoLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CoffeeAddToCart.Parent" xml:space="preserve">
+    <value>choicesGB1</value>
+  </data>
+  <data name="&gt;&gt;MintTeaPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoffeeLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;HotChocoLabel.Name" xml:space="preserve">
+    <value>HotChocoLabel</value>
+  </data>
+  <data name="HotChocoSmall.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;CoffeeQTY.Name" xml:space="preserve">
+    <value>CoffeeQTY</value>
+  </data>
+  <data name="&gt;&gt;TeaSmall.Parent" xml:space="preserve">
+    <value>choiceTeaGB</value>
+  </data>
+  <data name="CoffeeAddOns.Size" type="System.Drawing.Size, System.Drawing">
+    <value>168, 34</value>
+  </data>
+  <data name="CoffeeMed.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="TeaHibiscusLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;HotChocoPic.Parent" xml:space="preserve">
+    <value>HotChocoGroupBox</value>
+  </data>
+  <data name="HotChocoAddToCart.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="CoffeePic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 34</value>
+  </data>
+  <data name="RaspberryTeaPic.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="CoffeePic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="TeaMintLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;choicesGB1.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="TeaHibiscusLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="HotChocoPriceLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 39</value>
+  </data>
+  <data name="&gt;&gt;HotChocoGroupBox.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;CoffeeSmall.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="WhiteHotChocoPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="TeaAddOns.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="HotChocoQTYLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>261, 46</value>
+  </data>
+  <data name="TeaPriceLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="&gt;&gt;WhiteHotChocoPic.Parent" xml:space="preserve">
+    <value>HotChocoGroupBox</value>
+  </data>
+  <data name="choicesGB1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>784, 100</value>
+  </data>
+  <data name="&gt;&gt;HotChocoSmall.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MintTeaPic.Parent" xml:space="preserve">
+    <value>TeaGroupBox</value>
+  </data>
+  <data name="HotChocoPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="CappuccinoLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>393, 185</value>
+  </data>
+  <data name="&gt;&gt;TeaAddOns.Parent" xml:space="preserve">
+    <value>choiceTeaGB</value>
+  </data>
+  <data name="HotChocoGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="CoffeePic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;TeaBlackLabel.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="TeaLarge.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;HotChocoMed.Name" xml:space="preserve">
+    <value>HotChocoMed</value>
+  </data>
+  <data name="&gt;&gt;TeaMed.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="HotDrinksTitleLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;HotChocoGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TeaQTY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 35</value>
+  </data>
+  <data name="CoffeeGroupBox.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="GreenTeaPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="WhiteHotChocoLabel.Text" xml:space="preserve">
+    <value>White Hot Chocolate</value>
+  </data>
+  <data name="TeaRaspberryLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="CoffeeMed.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;TeaMed.Parent" xml:space="preserve">
+    <value>choiceTeaGB</value>
+  </data>
+  <data name="HotChocoGroupBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="TeaPriceLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>473, 39</value>
+  </data>
+  <data name="&gt;&gt;WhiteHotChocoPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BlackTeaPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 34</value>
+  </data>
+  <data name="SteamIcon1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="CoffeeQTYLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 28</value>
+  </data>
+  <data name="&gt;&gt;BackgroundPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;HotChocoPriceLabel.Parent" xml:space="preserve">
+    <value>choicehotChocoGB</value>
+  </data>
+  <data name="&gt;&gt;HotChocoPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;WhiteHotChocoPic.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="TeaGreenLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;TeaAddOns.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="HotChocoQTYLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="SteamIcon2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 50</value>
+  </data>
+  <data name="TeaAddOns.Text" xml:space="preserve">
+    <value>Add Ons</value>
+  </data>
+  <data name="HotChocoMed.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="TeaRaspberryLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 37</value>
+  </data>
+  <data name="CoffeeSmall.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 24</value>
+  </data>
+  <data name="HotChocoGroupBox.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;CoffeeAddToCart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;HotChocoLarge.Parent" xml:space="preserve">
+    <value>choicehotChocoGB</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>HotDrinksForm</value>
+  </data>
+  <data name="&gt;&gt;TeaGreenLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="HotDrinksTitleLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>753, 23</value>
+  </data>
+  <data name="TeaRaspberryLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CoffeeMed.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;RaspberryTeaPic.Name" xml:space="preserve">
+    <value>RaspberryTeaPic</value>
+  </data>
+  <data name="&gt;&gt;CoffeeGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeaAddToCart.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;CoffeePriceLabel.Parent" xml:space="preserve">
+    <value>choicesGB1</value>
+  </data>
+  <data name="&gt;&gt;HotChocoLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>MenuSetup.MenuSetup, MenuSetup, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="choicehotChocoGB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>735, 100</value>
+  </data>
+  <data name="CappuccinoLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="HotChocoAddToCart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 50</value>
+  </data>
+  <data name="TeaMintLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;LatteLabel.Parent" xml:space="preserve">
+    <value>CoffeeGroupBox</value>
+  </data>
+  <data name="CoffeeLarge.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="SteamIcon1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CoffeeQTYLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;HotChocoSmall.Parent" xml:space="preserve">
+    <value>choicehotChocoGB</value>
+  </data>
+  <data name="HotChocoPriceLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>435, 42</value>
+  </data>
+  <data name="&gt;&gt;CappuccinoPic.Parent" xml:space="preserve">
+    <value>CoffeeGroupBox</value>
+  </data>
+  <data name="&gt;&gt;TeaGreenLabel.Name" xml:space="preserve">
+    <value>TeaGreenLabel</value>
+  </data>
+  <data name="choicesGB1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="HotChocoLarge.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="HotDrinksTitleLabel.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;CoffeeSmall.Name" xml:space="preserve">
+    <value>CoffeeSmall</value>
+  </data>
+  <data name="HotChocoQTY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="HotChocoLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="TeaLarge.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="TeaQTY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;TeaRaspberryLabel.Parent" xml:space="preserve">
+    <value>TeaGroupBox</value>
+  </data>
+  <data name="&gt;&gt;HotChocoQTY.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;TeaSmall.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="TeaLarge.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;TeaAddToCart.Name" xml:space="preserve">
+    <value>TeaAddToCart</value>
+  </data>
+  <data name="&gt;&gt;TeaQTYLabel.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="TeaMed.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LatteLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="TeaBlackLabel.Text" xml:space="preserve">
+    <value>Black</value>
+  </data>
+  <data name="&gt;&gt;TeaSmall.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LattePic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;TeaAddToCart.Parent" xml:space="preserve">
+    <value>choiceTeaGB</value>
+  </data>
+  <data name="HotChocoLarge.Location" type="System.Drawing.Point, System.Drawing">
+    <value>170, 24</value>
+  </data>
+  <data name="&gt;&gt;TeaRaspberryLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LatteLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 37</value>
+  </data>
+  <data name="&gt;&gt;CoffeeAddOns.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="HotChocoLabel.Text" xml:space="preserve">
+    <value>Hot Chocolate</value>
+  </data>
+  <data name="choiceTeaGB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 225</value>
+  </data>
+  <data name="HotChocoQTYLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;TeaMed.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;AmericanoPic.Parent" xml:space="preserve">
+    <value>CoffeeGroupBox</value>
+  </data>
+  <data name="TeaRaspberryLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="&gt;&gt;CoffeeLarge.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;CoffeeAddOns.Parent" xml:space="preserve">
+    <value>choicesGB1</value>
+  </data>
+  <data name="&gt;&gt;choicehotChocoGB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="RaspberryTeaPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="AmericanoPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="&gt;&gt;CoffeeQTY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="MintTeaPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="CoffeeQTY.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;CoffeeAddOns.Name" xml:space="preserve">
+    <value>CoffeeAddOns</value>
+  </data>
+  <data name="CoffeeSmall.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;TeaMintLabel.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;TeaLarge.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BackgroundPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="TeaMed.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="CoffeeQTY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="TeaAddOns.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CoffeeAddToCart.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;AmericanoPic.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;GreenTeaPic.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;LattePic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeaAddToCart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CoffeeSmall.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 71</value>
+  </data>
+  <data name="HotChocoAddToCart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;LatteLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="HotChocoQTYLabel.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="&gt;&gt;CoffeeLabel.Parent" xml:space="preserve">
+    <value>CoffeeGroupBox</value>
+  </data>
+  <data name="RaspberryTeaPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>780, 34</value>
+  </data>
+  <data name="TeaAddToCart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 50</value>
+  </data>
+  <data name="BackgroundPanel.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;TeaQTY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeaLarge.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;TeaMintLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="HotChocoLarge.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Hot Drinks</value>
+  </data>
+  <data name="&gt;&gt;CoffeeQTYLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="HotChocoMed.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 71</value>
+  </data>
+  <data name="TeaGreenLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 47</value>
+  </data>
+  <data name="&gt;&gt;AmericanoPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LattePic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 34</value>
+  </data>
+  <data name="&gt;&gt;HotDrinksTitleLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;CoffeeMed.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;AmericanoLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="HibiscusTeaPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="RaspberryTeaPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;WhiteHotChocoPic.Name" xml:space="preserve">
+    <value>WhiteHotChocoPic</value>
+  </data>
+  <data name="WhiteHotChocoPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CoffeeQTYLabel.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="TeaGreenLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="TeaGreenLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="HotChocoPriceLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="GreenTeaPic.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="TeaGreenLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CoffeeLarge.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;TeaPriceLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CoffeeAddToCart.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;CoffeeSmall.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TeaSmall.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;TeaRaspberryLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;CoffeeLabel.Name" xml:space="preserve">
+    <value>CoffeeLabel</value>
+  </data>
+  <data name="&gt;&gt;HibiscusTeaPic.Name" xml:space="preserve">
+    <value>HibiscusTeaPic</value>
+  </data>
+  <data name="CoffeeMed.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;TeaGreenLabel.Parent" xml:space="preserve">
+    <value>TeaGroupBox</value>
+  </data>
+  <data name="&gt;&gt;CoffeeGroupBox.Parent" xml:space="preserve">
+    <value>BackgroundPanel</value>
+  </data>
+  <data name="HotChocoSmall.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="TeaLarge.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;choiceTeaGB.Parent" xml:space="preserve">
+    <value>TeaGroupBox</value>
+  </data>
+  <data name="BackgroundPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="MintTeaPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;CoffeeMed.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="HotChocoQTY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>362, 45</value>
+  </data>
+  <data name="CappuccinoLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;HotChocoAddToCart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="AmericanoPic.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="TeaMintLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 37</value>
+  </data>
+  <data name="CoffeePriceLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;HotChocoGroupBox.Parent" xml:space="preserve">
+    <value>BackgroundPanel</value>
+  </data>
+  <data name="CoffeeGroupBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12pt</value>
+  </data>
+  <data name="HotChocoAddToCart.Text" xml:space="preserve">
+    <value>Add to Cart</value>
+  </data>
+  <data name="SteamIcon2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1040, 23</value>
+  </data>
+  <data name="CoffeeAddOns.Location" type="System.Drawing.Point, System.Drawing">
+    <value>601, 23</value>
+  </data>
+  <data name="HotChocoMed.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="TeaPriceLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CoffeePic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="HotChocoLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;AmericanoLabel.Name" xml:space="preserve">
+    <value>AmericanoLabel</value>
+  </data>
+  <data name="&gt;&gt;TeaAddOns.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;BlackTeaPic.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;HibiscusTeaPic.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;HotChocoPic.Name" xml:space="preserve">
+    <value>HotChocoPic</value>
+  </data>
+  <data name="HotChocoSmall.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="TeaGroupBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12pt</value>
+  </data>
+  <data name="BackgroundPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1741, 635</value>
+  </data>
+  <data name="CappuccinoLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="TeaLarge.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 71</value>
+  </data>
+  <data name="SteamIcon1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 50</value>
+  </data>
+  <data name="HibiscusTeaPic.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;HotChocoAddToCart.Name" xml:space="preserve">
+    <value>HotChocoAddToCart</value>
+  </data>
+  <data name="CappuccinoLabel.Text" xml:space="preserve">
+    <value>Cappuccino</value>
+  </data>
+  <data name="HotChocoGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>747, 329</value>
+  </data>
+  <data name="CoffeeQTYLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;BlackTeaPic.Name" xml:space="preserve">
+    <value>BlackTeaPic</value>
+  </data>
+  <data name="TeaSmall.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 24</value>
+  </data>
+  <data name="&gt;&gt;HotChocoPriceLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TeaMintLabel.Parent" xml:space="preserve">
+    <value>TeaGroupBox</value>
+  </data>
+  <data name="CoffeePriceLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="&gt;&gt;TeaBlackLabel.Parent" xml:space="preserve">
+    <value>TeaGroupBox</value>
+  </data>
+  <data name="AmericanoPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="CoffeeAddOns.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;choiceTeaGB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TeaBlackLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="TeaMintLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="GreenTeaPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;CappuccinoLabel.Name" xml:space="preserve">
+    <value>CappuccinoLabel</value>
+  </data>
+  <data name="AmericanoLabel.Text" xml:space="preserve">
+    <value>Americano</value>
+  </data>
+  <data name="CoffeeSmall.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;HotChocoQTYLabel.Parent" xml:space="preserve">
+    <value>choicehotChocoGB</value>
+  </data>
+  <data name="HotChocoQTYLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 28</value>
+  </data>
+  <data name="BlackTeaPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;TeaLarge.Parent" xml:space="preserve">
+    <value>choiceTeaGB</value>
+  </data>
+  <data name="AmericanoLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;HotChocoLarge.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="TeaMed.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 71</value>
+  </data>
+  <data name="&gt;&gt;RaspberryTeaPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AmericanoLabel.Parent" xml:space="preserve">
+    <value>CoffeeGroupBox</value>
+  </data>
+  <data name="HotChocoPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="TeaQTYLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="SteamIcon1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="HotDrinksTitleLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;HotChocoQTYLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;CappuccinoLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;SteamIcon1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="TeaQTYLabel.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="AmericanoPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;TeaBlackLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TeaMintLabel.Text" xml:space="preserve">
+    <value>Mint</value>
+  </data>
+  <data name="TeaBlackLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 185</value>
+  </data>
+  <data name="&gt;&gt;WhiteHotChocoLabel.Name" xml:space="preserve">
+    <value>WhiteHotChocoLabel</value>
+  </data>
+  <data name="HotChocoLarge.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 71</value>
+  </data>
+  <data name="HotChocoAddToCart.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;CappuccinoLabel.Parent" xml:space="preserve">
+    <value>CoffeeGroupBox</value>
+  </data>
+  <data name="TeaAddOns.Location" type="System.Drawing.Point, System.Drawing">
+    <value>583, 33</value>
+  </data>
+  <data name="TeaBlackLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 37</value>
+  </data>
+  <data name="&gt;&gt;HibiscusTeaPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TeaMed.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;SteamIcon1.Parent" xml:space="preserve">
+    <value>BackgroundPanel</value>
+  </data>
+  <data name="&gt;&gt;CoffeePic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TeaHibiscusLabel.Text" xml:space="preserve">
+    <value>Hibiscus</value>
+  </data>
+  <data name="AmericanoLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 37</value>
+  </data>
+  <data name="&gt;&gt;HotChocoQTY.Name" xml:space="preserve">
+    <value>HotChocoQTY</value>
+  </data>
+  <data name="AmericanoLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 185</value>
+  </data>
+  <data name="CoffeeLarge.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;HotChocoQTYLabel.Name" xml:space="preserve">
+    <value>HotChocoQTYLabel</value>
+  </data>
+  <data name="TeaGroupBox.Text" xml:space="preserve">
+    <value>Teas</value>
+  </data>
+  <data name="CoffeeQTYLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LatteLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="BlackTeaPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="CoffeeQTYLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>266, 46</value>
+  </data>
+  <data name="&gt;&gt;BackgroundPanel.Name" xml:space="preserve">
+    <value>BackgroundPanel</value>
+  </data>
+  <data name="&gt;&gt;TeaBlackLabel.Name" xml:space="preserve">
+    <value>TeaBlackLabel</value>
+  </data>
+  <data name="WhiteHotChocoPic.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>45</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>es</value>
+  </metadata>
+</root>

@@ -3,60 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menus\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menus\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menus\\hotdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\hotdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menus\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\pastries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menus\\pastries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\pastries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\hotdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\hotdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\hotdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\hotdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\colddrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{263BC865-CEF3-44E5-8317-767F945732F2}|MenuSetup\\MenuSetup.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menusetup\\menusetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{263BC865-CEF3-44E5-8317-767F945732F2}|MenuSetup\\MenuSetup.csproj|solutionrelative:menusetup\\menusetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menus\\colddrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\colddrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\colddrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menus\\colddrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\colddrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\pastries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menus\\hotdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\hotdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menus\\pastries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\pastries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{505E91DD-D93B-45AA-A72E-3923A523AA8C}|Comfy Cozy Cafe\\Comfy Cozy Cafe.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\comfy cozy cafe\\firstmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{505E91DD-D93B-45AA-A72E-3923A523AA8C}|Comfy Cozy Cafe\\Comfy Cozy Cafe.csproj|solutionrelative:comfy cozy cafe\\firstmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|c:\\users\\user11\\onedrive\\documents\\github\\appdevproject\\menus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{15405D8B-FC2A-4F77-A0B8-8453605347CA}|Menus\\Menus.csproj|solutionrelative:menus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{263BC865-CEF3-44E5-8317-767F945732F2}|MenuSetup\\MenuSetup.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menusetup\\menusetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{263BC865-CEF3-44E5-8317-767F945732F2}|MenuSetup\\MenuSetup.csproj|solutionrelative:menusetup\\menusetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{263BC865-CEF3-44E5-8317-767F945732F2}|MenuSetup\\MenuSetup.csproj|C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\menusetup\\menusetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "Menus\\Checkout.cs",
               "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Checkout.cs",
               "RelativeToolTip": "Menus\\Checkout.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAwwHMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAmwLcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T23:13:27.731Z",
               "IsPinned": true,
@@ -88,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Checkout.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Checkout.cs",
               "RelativeDocumentMoniker": "Menus\\Checkout.cs",
@@ -101,7 +101,36 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Cart.cs",
+              "RelativeDocumentMoniker": "Menus\\Cart.cs",
+              "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Cart.cs",
+              "RelativeToolTip": "Menus\\Cart.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv5sAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:06:51.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Cart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Cart.cs",
+              "RelativeDocumentMoniker": "Menus\\Cart.cs",
+              "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Cart.cs [Design]",
+              "RelativeToolTip": "Menus\\Cart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:06:49.767Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ColdDrinks.cs",
               "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\ColdDrinks.cs",
               "RelativeDocumentMoniker": "Menus\\ColdDrinks.cs",
@@ -114,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ColdDrinks.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\ColdDrinks.cs",
               "RelativeDocumentMoniker": "Menus\\ColdDrinks.cs",
@@ -126,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Pastries.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Pastries.cs",
               "RelativeDocumentMoniker": "Menus\\Pastries.cs",
@@ -138,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "HotDrinks.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\HotDrinks.cs",
               "RelativeDocumentMoniker": "Menus\\HotDrinks.cs",
@@ -150,45 +179,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Form1.cs",
-              "RelativeDocumentMoniker": "Menus\\Form1.cs",
-              "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Form1.cs",
-              "RelativeToolTip": "Menus\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Delivery.cs",
+              "RelativeDocumentMoniker": "Menus\\Delivery.cs",
+              "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Delivery.cs",
+              "RelativeToolTip": "Menus\\Delivery.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwF8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T02:11:44.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Form1.cs",
-              "RelativeDocumentMoniker": "Menus\\Form1.cs",
-              "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Form1.cs [Design]",
-              "RelativeToolTip": "Menus\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Delivery.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Delivery.cs",
+              "RelativeDocumentMoniker": "Menus\\Delivery.cs",
+              "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Delivery.cs [Design]",
+              "RelativeToolTip": "Menus\\Delivery.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T02:11:00.212Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Pastries.cs",
               "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Pastries.cs",
               "RelativeDocumentMoniker": "Menus\\Pastries.cs",
               "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Pastries.cs",
               "RelativeToolTip": "Menus\\Pastries.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEABAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T22:15:54.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "HotDrinks.cs",
               "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\HotDrinks.cs",
               "RelativeDocumentMoniker": "Menus\\HotDrinks.cs",
@@ -200,12 +229,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "FirstMenu.cs",
               "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Comfy Cozy Cafe\\FirstMenu.cs",
               "RelativeDocumentMoniker": "Comfy Cozy Cafe\\FirstMenu.cs",
@@ -213,19 +238,19 @@
               "RelativeToolTip": "Comfy Cozy Cafe\\FirstMenu.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowBwAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T21:56:05.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T21:56:05.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "MenuSetup.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\MenuSetup\\MenuSetup.cs",
               "RelativeDocumentMoniker": "MenuSetup\\MenuSetup.cs",
               "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\MenuSetup\\MenuSetup.cs [Design]",
               "RelativeToolTip": "MenuSetup\\MenuSetup.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T21:47:22.436Z"
+              "WhenOpened": "2025-12-09T21:47:22.436Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -237,53 +262,8 @@
               "RelativeToolTip": "MenuSetup\\MenuSetup.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAswDkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T21:02:53.679Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "87e7c4e8-2f81-42c0-9dd4-abf2970c8775",
-        "Display": 1,
-        "X": 697,
-        "Y": 148,
-        "Width": 1254,
-        "Height": 745,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Cart.cs",
-              "RelativeDocumentMoniker": "Menus\\Cart.cs",
-              "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Cart.cs",
-              "RelativeToolTip": "Menus\\Cart.cs",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAqwOEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T19:02:24.645Z",
+              "WhenOpened": "2025-12-09T21:02:53.679Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cart.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Cart.cs",
-              "RelativeDocumentMoniker": "Menus\\Cart.cs",
-              "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Cart.cs [Design]",
-              "RelativeToolTip": "Menus\\Cart.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T23:12:52.454Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

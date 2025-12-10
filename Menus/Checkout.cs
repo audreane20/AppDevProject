@@ -180,9 +180,27 @@ namespace Menus
             if (deliveryRadio.Checked)
             {
                 total += total * 0.15;
+                DeliveryForm deliveryForm = new DeliveryForm(emailTextBox.Text,generateOrderNumber());
+                deliveryForm.Show();
+            }
+            else
+            {
+                confirmationPopUp(generateOrderNumber());
+                Menus.Cart.CartItems.Clear();
 
             }
+        }
 
+        private void confirmationPopUp(int num)
+        {
+            MessageBox.Show("Thank you for your order! A confirmation email has been sent to " + emailTextBox.Text + ".", $"Order {num} Confirmed", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            this.Close();
+        }
+
+        private int generateOrderNumber()
+        {
+            Random rand = new Random();
+            return rand.Next(1000, 9999);
         }
 
         private void firstNameTextBox_TextChanged(object sender, EventArgs e)

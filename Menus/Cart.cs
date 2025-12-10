@@ -152,16 +152,8 @@ namespace Menus
                 {
                     if (qf.ShowDialog() == DialogResult.OK)
                     {
-                        int newQty = qf.SelectedQuantity;
-                        int diff = newQty - item.Quantity;
-
-                        // diff > 0 = user wants more, so stock decreases
-                        // diff < 0 = user decreases, so stock increases
-                        if (!CheckStockAndUpdate(item.Name, -diff))
-                            return;
-
-                        item.Quantity = newQty;
-                        item.Subtotal = item.Price * newQty;
+                        item.Quantity = qf.SelectedQuantity;
+                        item.Subtotal = item.Price * item.Quantity;
 
                         LoadCartItems();
                     }

@@ -312,13 +312,13 @@ namespace Menus
 
         private void PastriesAddToCart_Click(object sender, EventArgs e)
         {
-            int quantity = (int)PastriesQTY.Value;
-            string dbName = selectedPastryNamestring;
+            //int quantity = (int)PastriesQTY.Value;
+            //string dbName = selectedPastryNamestring;
 
-            if (!CheckStockAndUpdate(dbName, quantity))
-            {
-                return;
-            }
+            //if (!CheckStockAndUpdate(dbName, quantity))
+            //{
+            //    return;
+            //}
             // Now safe to add to cart
             double basePrice = 0;
 
@@ -357,13 +357,13 @@ namespace Menus
         private void DanishAddToCart_Click(object sender, EventArgs e)
         {
 
-            int quantity = (int)DanishQTY.Value;
-            string dbName = selectedPastryNamestring;
+            //int quantity = (int)DanishQTY.Value;
+            //string dbName = selectedPastryNamestring;
 
-            if (!CheckStockAndUpdate(dbName, quantity))
-            {
-                return;
-            }
+            //if (!CheckStockAndUpdate(dbName, quantity))
+            //{
+            //    return;
+            //}
             // Now safe to add to cart
             double basePrice = 0;
 
@@ -401,13 +401,13 @@ namespace Menus
 
         private void MuffinAddToCart_Click(object sender, EventArgs e)
         {
-            int quantity = (int)MuffinQTY.Value;
-            string dbName = selectedPastryNamestring;
+            //int quantity = (int)MuffinQTY.Value;
+            //string dbName = selectedPastryNamestring;
 
-            if (!CheckStockAndUpdate(dbName, quantity))
-            {
-                return;
-            }
+            //if (!CheckStockAndUpdate(dbName, quantity))
+            //{
+            //    return;
+            //}
 
             // Now safe to add to cart
             double basePrice = 0;

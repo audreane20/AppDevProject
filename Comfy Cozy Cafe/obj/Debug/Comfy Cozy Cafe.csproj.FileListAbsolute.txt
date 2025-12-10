@@ -58,14 +58,7 @@ E:\W25\Application Development\Final Project\Comfy Cozy Cafe\Comfy Cozy Cafe\obj
 C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\Comfy Cozy Cafe.exe.config
 C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\Comfy Cozy Cafe.exe
 C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\Comfy Cozy Cafe.pdb
-C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\Menus.exe
-C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\MenuSetup.dll
-C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\Menus.pdb
-C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\Menus.exe.config
-C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\MenuSetup.pdb
-C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\MenuSetup.dll.config
 C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\obj\Debug\Comfy Cozy Cafe.csproj.AssemblyReference.cache
-C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\obj\Debug\Comfy Cozy Cafe.exe.config
 C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\obj\Debug\Comfy_Cozy_Cafe.FirstMenu.resources
 C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\obj\Debug\Comfy_Cozy_Cafe.Properties.Resources.resources
 C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\obj\Debug\Comfy_Cozy_Cafe.StartUp.resources
@@ -74,3 +67,12 @@ C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\obj\Debu
 C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\obj\Debug\Comfy Co.F8C546F9.Up2Date
 C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\obj\Debug\Comfy Cozy Cafe.exe
 C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\obj\Debug\Comfy Cozy Cafe.pdb
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\Menus.exe
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\MenuSetup.dll
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\EntityFramework.dll
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\Menus.pdb
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\Menus.exe.config
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\MenuSetup.pdb
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\MenuSetup.dll.config
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\bin\Debug\EntityFramework.xml
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Comfy Cozy Cafe\obj\Debug\Comfy Cozy Cafe.exe.config

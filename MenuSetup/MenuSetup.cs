@@ -56,7 +56,6 @@ namespace MenuSetup
         public void EnableCartMenu()
         {
             cartToolStripMenuItem.Enabled = true;
-            checkoutToolStripMenuItem.Enabled = true; 
         }
 
         private void cartToolStripMenuItem_Click(object sender, EventArgs e)
@@ -65,10 +64,5 @@ namespace MenuSetup
             cartForm.Show();
         }
 
-        private void CheckoutToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Menus.Checkout checkoutForm = new Menus.Checkout();
-            checkoutForm.Show();
-        }
     }
 }

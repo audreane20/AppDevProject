@@ -12,6 +12,10 @@ namespace Menus
 {
     public partial class ColdDrinksForm : MenuSetup.MenuSetup
     {
+        private ComfyCafeDBDataSet comfyCafeDBDataSet = new ComfyCafeDBDataSet();
+        private ComfyCafeDBDataSetTableAdapters.MenuItemsTableAdapter menuItemsTableAdapter =
+            new ComfyCafeDBDataSetTableAdapters.MenuItemsTableAdapter();
+
         PictureBox selectedDrinkBox = null;
         Label selectedDrinkName = null;
         string selectedDrinkNamestring = null;
@@ -519,6 +523,13 @@ namespace Menus
                 return;
             }
 
+            int quantity = (int)SmoothieQTY.Value;
+            string dbName = selectedDrinkNamestring;
+            if (!CheckStockAndUpdate(dbName, quantity))
+            {
+                return;
+            }
+
             // Now safe to add to cart
             double basePrice = 0;
             int sizePrice = 0;
@@ -578,6 +589,12 @@ namespace Menus
                                 MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
+            int quantity = (int)FrappQTY.Value;
+            string dbName = selectedDrinkNamestring;
+            if (!CheckStockAndUpdate(dbName, quantity))
+            {
+                return;
+            }
 
             // Now safe to add to cart
             double basePrice = 0;
@@ -632,6 +649,13 @@ namespace Menus
             {
                 MessageBox.Show("Please select a size first.", "Missing Size",
                                 MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            int quantity = (int)IceCoffeeQTY.Value;
+            string dbName = selectedDrinkNamestring;
+            if (!CheckStockAndUpdate(dbName, quantity))
+            {
                 return;
             }
 
@@ -692,6 +716,13 @@ namespace Menus
                 return;
             }
 
+            int quantity = (int)LemonadeQTY.Value;
+            string dbName = selectedDrinkNamestring;
+            if (!CheckStockAndUpdate(dbName, quantity))
+            {
+                return;
+            }
+
             // Now safe to add to cart
             double basePrice = 0;
             int sizePrice = 0;
@@ -747,6 +778,41 @@ namespace Menus
         private void LemonadeQTY_ValueChanged(object sender, EventArgs e)
         {
             ItemPriceCalculation();
+        }
+
+        private void ColdDrinksForm_Load(object sender, EventArgs e)
+        {
+            menuItemsTableAdapter.Fill(comfyCafeDBDataSet.MenuItems);
+
+        }
+
+        private bool CheckStockAndUpdate(string itemName, int qtyNeeded)
+        {
+            // Find row in DB
+            var row = comfyCafeDBDataSet.MenuItems
+                .FirstOrDefault(r => r.Name == itemName);
+
+            if (row == null)
+            {
+                MessageBox.Show("Item not found in database.");
+                return false;
+            }
+
+            int currentStock = row.Quantity;
+
+            if (currentStock < qtyNeeded)
+            {
+                MessageBox.Show($"Not enough stock! Only {currentStock} left.");
+                return false;
+            }
+
+            // Reduce stock
+            row.Quantity = currentStock - qtyNeeded;
+
+            // Save back to DB
+            menuItemsTableAdapter.Update(comfyCafeDBDataSet.MenuItems);
+
+            return true;
         }
     }
 }

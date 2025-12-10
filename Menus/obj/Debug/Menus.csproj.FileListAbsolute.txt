@@ -47,3 +47,29 @@ E:\W25\Application Development\Final Project\Comfy Cozy Cafe\Menus\obj\Debug\Men
 E:\W25\Application Development\Final Project\Comfy Cozy Cafe\Menus\obj\Debug\Menus.csproj.Up2Date
 E:\W25\Application Development\Final Project\Comfy Cozy Cafe\Menus\obj\Debug\Menus.exe
 E:\W25\Application Development\Final Project\Comfy Cozy Cafe\Menus\obj\Debug\Menus.pdb
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\bin\Debug\Menus.exe.config
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\bin\Debug\Menus.exe
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\bin\Debug\Menus.pdb
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\bin\Debug\EntityFramework.dll
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\bin\Debug\MenuSetup.dll
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\bin\Debug\EntityFramework.xml
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\bin\Debug\MenuSetup.pdb
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\bin\Debug\MenuSetup.dll.config
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.csproj.AssemblyReference.cache
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.AddOns.resources
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.Cart.resources
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.Checkout.resources
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.ColdDrinksForm.resources
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.HotDrinksForm.resources
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.PastriesForm.resources
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.Properties.Resources.resources
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.QuantityForm.resources
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.csproj.GenerateResource.cache
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.csproj.CoreCompileInputs.cache
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.csproj.Up2Date
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.exe
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.pdb
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.exe.config
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\Menus\obj\Debug\Menus.DeliveryForm.resources

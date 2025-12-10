@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Menus.ComfyCafeDBDataSetTableAdapters;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,6 +13,9 @@ namespace Menus
 {
     public partial class PastriesForm : MenuSetup.MenuSetup
     {
+        private ComfyCafeDBDataSet comfyCafeDBDataSet = new ComfyCafeDBDataSet();
+        private ComfyCafeDBDataSetTableAdapters.MenuItemsTableAdapter menuItemsTableAdapter =
+            new ComfyCafeDBDataSetTableAdapters.MenuItemsTableAdapter();
         PictureBox selectedPastryBox = null;
         Label selectedPastryName = null;
         string selectedPastryNamestring = null;
@@ -308,6 +312,13 @@ namespace Menus
 
         private void PastriesAddToCart_Click(object sender, EventArgs e)
         {
+            int quantity = (int)PastriesQTY.Value;
+            string dbName = selectedPastryNamestring;
+
+            if (!CheckStockAndUpdate(dbName, quantity))
+            {
+                return;
+            }
             // Now safe to add to cart
             double basePrice = 0;
 
@@ -345,6 +356,14 @@ namespace Menus
 
         private void DanishAddToCart_Click(object sender, EventArgs e)
         {
+
+            int quantity = (int)DanishQTY.Value;
+            string dbName = selectedPastryNamestring;
+
+            if (!CheckStockAndUpdate(dbName, quantity))
+            {
+                return;
+            }
             // Now safe to add to cart
             double basePrice = 0;
 
@@ -382,6 +401,14 @@ namespace Menus
 
         private void MuffinAddToCart_Click(object sender, EventArgs e)
         {
+            int quantity = (int)MuffinQTY.Value;
+            string dbName = selectedPastryNamestring;
+
+            if (!CheckStockAndUpdate(dbName, quantity))
+            {
+                return;
+            }
+
             // Now safe to add to cart
             double basePrice = 0;
 
@@ -419,5 +446,36 @@ namespace Menus
             MessageBox.Show("Added to cart!");
             ResetPastryForm();
         }
+
+        private bool CheckStockAndUpdate(string itemName, int qtyNeeded)
+        {
+            // Find row in DB
+            var row = comfyCafeDBDataSet.MenuItems
+                .FirstOrDefault(r => r.Name == itemName);
+
+            if (row == null)
+            {
+                MessageBox.Show("Item not found in database.");
+                return false;
+            }
+
+            int currentStock = row.Quantity;
+
+            if (currentStock < qtyNeeded)
+            {
+                MessageBox.Show($"Not enough stock! Only {currentStock} left.");
+                return false;
+            }
+
+            // Reduce stock
+            row.Quantity = currentStock - qtyNeeded;
+
+            // Save back to DB
+            menuItemsTableAdapter.Update(comfyCafeDBDataSet.MenuItems);
+
+            return true;
+        }
+
     }
 }
+

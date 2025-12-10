@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Menus.ComfyCafeDBDataSetTableAdapters;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,6 +14,10 @@ namespace Menus
 {
     public partial class Cart : MenuSetup.MenuSetup
     {
+        private ComfyCafeDBDataSet comfyCafeDBDataSet = new ComfyCafeDBDataSet();
+        private ComfyCafeDBDataSetTableAdapters.MenuItemsTableAdapter menuItemsTableAdapter =
+            new ComfyCafeDBDataSetTableAdapters.MenuItemsTableAdapter();
+        Double total = 0;
         public static List<CartItem> CartItems = new List<CartItem>();
         public Cart()
         {
@@ -110,7 +115,7 @@ namespace Menus
 
         private void UpdateTotal()
         {
-            Double total = 0;
+            
 
             foreach (var item in CartItems)
                 total += item.Subtotal;
@@ -125,6 +130,9 @@ namespace Menus
 
             var selected = listViewCart.SelectedItems[0];
             var item = selected.Tag as CartItem;
+
+            // return stock back to DB
+            CheckStockAndUpdate(item.Name, item.Quantity);
 
             CartItems.Remove(item);
             LoadCartItems();
@@ -144,8 +152,17 @@ namespace Menus
                 {
                     if (qf.ShowDialog() == DialogResult.OK)
                     {
-                        item.Quantity = qf.SelectedQuantity;
-                        item.Subtotal = item.Price * item.Quantity;
+                        int newQty = qf.SelectedQuantity;
+                        int diff = newQty - item.Quantity;
+
+                        // diff > 0 = user wants more, so stock decreases
+                        // diff < 0 = user decreases, so stock increases
+                        if (!CheckStockAndUpdate(item.Name, -diff))
+                            return;
+
+                        item.Quantity = newQty;
+                        item.Subtotal = item.Price * newQty;
+
                         LoadCartItems();
                     }
                 }
@@ -166,5 +183,47 @@ namespace Menus
             }
         }
 
+
+        private bool CheckStockAndUpdate(string itemName, int changeAmount)
+        {
+            // 1. look up DB row
+            var row = comfyCafeDBDataSet.MenuItems
+                        .FirstOrDefault(r => r.Name == itemName);
+
+            if (row == null)
+            {
+                MessageBox.Show("Item not found in database.");
+                return false;
+            }
+
+            int currentStock = row.Quantity;
+
+            // 2. If changeAmount is negative → person wants more
+            if (changeAmount < 0 && currentStock < Math.Abs(changeAmount))
+            {
+                MessageBox.Show(
+                    $"Sorry, only {currentStock} left in stock.",
+                    "Stock Too Low",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Warning
+                );
+                return false;
+            }
+
+            // 3. Apply change
+            row.Quantity += changeAmount;
+
+            // 4. Save
+            menuItemsTableAdapter.Update(comfyCafeDBDataSet.MenuItems);
+
+            return true;
+        }
+
+        private void proceedButton_Click(object sender, EventArgs e)
+        {
+            Menus.Checkout checkoutForm = new Menus.Checkout(total);
+            checkoutForm.Show();
+            this.Close();
+        }
     }
 }

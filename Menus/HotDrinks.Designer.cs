@@ -83,6 +83,7 @@
             this.CoffeeQTYLabel = new System.Windows.Forms.Label();
             this.CoffeeQTY = new System.Windows.Forms.NumericUpDown();
             this.CoffeeMed = new System.Windows.Forms.PictureBox();
+            this.comfyCafeDBDataSet = new Menus.ComfyCafeDBDataSet();
             this.BackgroundPanel.SuspendLayout();
             this.TeaGroupBox.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.RaspberryTeaPic)).BeginInit();
@@ -115,6 +116,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.CoffeeSmall)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.CoffeeQTY)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.CoffeeMed)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.comfyCafeDBDataSet)).BeginInit();
             this.SuspendLayout();
             // 
             // BackgroundPanel
@@ -128,9 +130,10 @@
             this.BackgroundPanel.Controls.Add(this.HotChocoGroupBox);
             this.BackgroundPanel.Controls.Add(this.CoffeeGroupBox);
             this.BackgroundPanel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.BackgroundPanel.Location = new System.Drawing.Point(0, 58);
+            this.BackgroundPanel.Location = new System.Drawing.Point(0, 47);
+            this.BackgroundPanel.Margin = new System.Windows.Forms.Padding(2);
             this.BackgroundPanel.Name = "BackgroundPanel";
-            this.BackgroundPanel.Size = new System.Drawing.Size(1741, 635);
+            this.BackgroundPanel.Size = new System.Drawing.Size(1306, 675);
             this.BackgroundPanel.TabIndex = 2;
             // 
             // TeaGroupBox
@@ -147,11 +150,11 @@
             this.TeaGroupBox.Controls.Add(this.TeaBlackLabel);
             this.TeaGroupBox.Controls.Add(this.choiceTeaGB);
             this.TeaGroupBox.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TeaGroupBox.Location = new System.Drawing.Point(417, 477);
-            this.TeaGroupBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TeaGroupBox.Location = new System.Drawing.Point(313, 388);
+            this.TeaGroupBox.Margin = new System.Windows.Forms.Padding(2);
             this.TeaGroupBox.Name = "TeaGroupBox";
-            this.TeaGroupBox.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.TeaGroupBox.Size = new System.Drawing.Size(964, 329);
+            this.TeaGroupBox.Padding = new System.Windows.Forms.Padding(2);
+            this.TeaGroupBox.Size = new System.Drawing.Size(723, 267);
             this.TeaGroupBox.TabIndex = 34;
             this.TeaGroupBox.TabStop = false;
             this.TeaGroupBox.Text = "Teas";
@@ -160,9 +163,10 @@
             // 
             this.TeaRaspberryLabel.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TeaRaspberryLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.TeaRaspberryLabel.Location = new System.Drawing.Point(780, 185);
+            this.TeaRaspberryLabel.Location = new System.Drawing.Point(585, 150);
+            this.TeaRaspberryLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.TeaRaspberryLabel.Name = "TeaRaspberryLabel";
-            this.TeaRaspberryLabel.Size = new System.Drawing.Size(165, 37);
+            this.TeaRaspberryLabel.Size = new System.Drawing.Size(124, 30);
             this.TeaRaspberryLabel.TabIndex = 34;
             this.TeaRaspberryLabel.Text = "Raspberry";
             this.TeaRaspberryLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -170,10 +174,10 @@
             // RaspberryTeaPic
             // 
             this.RaspberryTeaPic.Image = global::Menus.Properties.Resources.TeaRaspberry;
-            this.RaspberryTeaPic.Location = new System.Drawing.Point(780, 34);
-            this.RaspberryTeaPic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.RaspberryTeaPic.Location = new System.Drawing.Point(585, 28);
+            this.RaspberryTeaPic.Margin = new System.Windows.Forms.Padding(2);
             this.RaspberryTeaPic.Name = "RaspberryTeaPic";
-            this.RaspberryTeaPic.Size = new System.Drawing.Size(165, 150);
+            this.RaspberryTeaPic.Size = new System.Drawing.Size(124, 122);
             this.RaspberryTeaPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.RaspberryTeaPic.TabIndex = 33;
             this.RaspberryTeaPic.TabStop = false;
@@ -183,9 +187,10 @@
             // 
             this.TeaGreenLabel.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TeaGreenLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.TeaGreenLabel.Location = new System.Drawing.Point(203, 185);
+            this.TeaGreenLabel.Location = new System.Drawing.Point(152, 150);
+            this.TeaGreenLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.TeaGreenLabel.Name = "TeaGreenLabel";
-            this.TeaGreenLabel.Size = new System.Drawing.Size(165, 47);
+            this.TeaGreenLabel.Size = new System.Drawing.Size(124, 38);
             this.TeaGreenLabel.TabIndex = 17;
             this.TeaGreenLabel.Text = "Green";
             this.TeaGreenLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -194,9 +199,10 @@
             // 
             this.TeaHibiscusLabel.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TeaHibiscusLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.TeaHibiscusLabel.Location = new System.Drawing.Point(393, 185);
+            this.TeaHibiscusLabel.Location = new System.Drawing.Point(295, 150);
+            this.TeaHibiscusLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.TeaHibiscusLabel.Name = "TeaHibiscusLabel";
-            this.TeaHibiscusLabel.Size = new System.Drawing.Size(165, 37);
+            this.TeaHibiscusLabel.Size = new System.Drawing.Size(124, 30);
             this.TeaHibiscusLabel.TabIndex = 16;
             this.TeaHibiscusLabel.Text = "Hibiscus";
             this.TeaHibiscusLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -205,9 +211,10 @@
             // 
             this.TeaMintLabel.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TeaMintLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.TeaMintLabel.Location = new System.Drawing.Point(588, 185);
+            this.TeaMintLabel.Location = new System.Drawing.Point(441, 150);
+            this.TeaMintLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.TeaMintLabel.Name = "TeaMintLabel";
-            this.TeaMintLabel.Size = new System.Drawing.Size(165, 37);
+            this.TeaMintLabel.Size = new System.Drawing.Size(124, 30);
             this.TeaMintLabel.TabIndex = 15;
             this.TeaMintLabel.Text = "Mint";
             this.TeaMintLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -215,10 +222,10 @@
             // MintTeaPic
             // 
             this.MintTeaPic.Image = global::Menus.Properties.Resources.TeaMint;
-            this.MintTeaPic.Location = new System.Drawing.Point(588, 34);
-            this.MintTeaPic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.MintTeaPic.Location = new System.Drawing.Point(441, 28);
+            this.MintTeaPic.Margin = new System.Windows.Forms.Padding(2);
             this.MintTeaPic.Name = "MintTeaPic";
-            this.MintTeaPic.Size = new System.Drawing.Size(165, 150);
+            this.MintTeaPic.Size = new System.Drawing.Size(124, 122);
             this.MintTeaPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.MintTeaPic.TabIndex = 13;
             this.MintTeaPic.TabStop = false;
@@ -227,10 +234,10 @@
             // HibiscusTeaPic
             // 
             this.HibiscusTeaPic.Image = global::Menus.Properties.Resources.TeaHibiscus;
-            this.HibiscusTeaPic.Location = new System.Drawing.Point(393, 34);
-            this.HibiscusTeaPic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.HibiscusTeaPic.Location = new System.Drawing.Point(295, 28);
+            this.HibiscusTeaPic.Margin = new System.Windows.Forms.Padding(2);
             this.HibiscusTeaPic.Name = "HibiscusTeaPic";
-            this.HibiscusTeaPic.Size = new System.Drawing.Size(165, 150);
+            this.HibiscusTeaPic.Size = new System.Drawing.Size(124, 122);
             this.HibiscusTeaPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.HibiscusTeaPic.TabIndex = 12;
             this.HibiscusTeaPic.TabStop = false;
@@ -239,10 +246,10 @@
             // GreenTeaPic
             // 
             this.GreenTeaPic.Image = global::Menus.Properties.Resources.TeaGreen;
-            this.GreenTeaPic.Location = new System.Drawing.Point(203, 34);
-            this.GreenTeaPic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.GreenTeaPic.Location = new System.Drawing.Point(152, 28);
+            this.GreenTeaPic.Margin = new System.Windows.Forms.Padding(2);
             this.GreenTeaPic.Name = "GreenTeaPic";
-            this.GreenTeaPic.Size = new System.Drawing.Size(165, 150);
+            this.GreenTeaPic.Size = new System.Drawing.Size(124, 122);
             this.GreenTeaPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.GreenTeaPic.TabIndex = 11;
             this.GreenTeaPic.TabStop = false;
@@ -251,10 +258,10 @@
             // BlackTeaPic
             // 
             this.BlackTeaPic.Image = global::Menus.Properties.Resources.Tea;
-            this.BlackTeaPic.Location = new System.Drawing.Point(11, 34);
-            this.BlackTeaPic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.BlackTeaPic.Location = new System.Drawing.Point(8, 28);
+            this.BlackTeaPic.Margin = new System.Windows.Forms.Padding(2);
             this.BlackTeaPic.Name = "BlackTeaPic";
-            this.BlackTeaPic.Size = new System.Drawing.Size(165, 150);
+            this.BlackTeaPic.Size = new System.Drawing.Size(124, 122);
             this.BlackTeaPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.BlackTeaPic.TabIndex = 10;
             this.BlackTeaPic.TabStop = false;
@@ -264,9 +271,10 @@
             // 
             this.TeaBlackLabel.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TeaBlackLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.TeaBlackLabel.Location = new System.Drawing.Point(13, 185);
+            this.TeaBlackLabel.Location = new System.Drawing.Point(10, 150);
+            this.TeaBlackLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.TeaBlackLabel.Name = "TeaBlackLabel";
-            this.TeaBlackLabel.Size = new System.Drawing.Size(161, 37);
+            this.TeaBlackLabel.Size = new System.Drawing.Size(121, 30);
             this.TeaBlackLabel.TabIndex = 8;
             this.TeaBlackLabel.Text = "Black";
             this.TeaBlackLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -281,25 +289,29 @@
             this.choiceTeaGB.Controls.Add(this.TeaQTY);
             this.choiceTeaGB.Controls.Add(this.TeaQTYLabel);
             this.choiceTeaGB.Controls.Add(this.TeaLarge);
-            this.choiceTeaGB.Location = new System.Drawing.Point(5, 225);
+            this.choiceTeaGB.Location = new System.Drawing.Point(4, 183);
+            this.choiceTeaGB.Margin = new System.Windows.Forms.Padding(2);
             this.choiceTeaGB.Name = "choiceTeaGB";
-            this.choiceTeaGB.Size = new System.Drawing.Size(953, 100);
+            this.choiceTeaGB.Padding = new System.Windows.Forms.Padding(2);
+            this.choiceTeaGB.Size = new System.Drawing.Size(715, 81);
             this.choiceTeaGB.TabIndex = 37;
             this.choiceTeaGB.TabStop = false;
             this.choiceTeaGB.Visible = false;
             // 
             // TeaPriceLabel
             // 
-            this.TeaPriceLabel.Location = new System.Drawing.Point(490, 39);
+            this.TeaPriceLabel.Location = new System.Drawing.Point(368, 32);
+            this.TeaPriceLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.TeaPriceLabel.Name = "TeaPriceLabel";
-            this.TeaPriceLabel.Size = new System.Drawing.Size(110, 39);
+            this.TeaPriceLabel.Size = new System.Drawing.Size(82, 32);
             this.TeaPriceLabel.TabIndex = 37;
             // 
             // TeaAddToCart
             // 
-            this.TeaAddToCart.Location = new System.Drawing.Point(785, 35);
+            this.TeaAddToCart.Location = new System.Drawing.Point(589, 28);
+            this.TeaAddToCart.Margin = new System.Windows.Forms.Padding(2);
             this.TeaAddToCart.Name = "TeaAddToCart";
-            this.TeaAddToCart.Size = new System.Drawing.Size(161, 48);
+            this.TeaAddToCart.Size = new System.Drawing.Size(121, 39);
             this.TeaAddToCart.TabIndex = 36;
             this.TeaAddToCart.Text = "Add to Cart";
             this.TeaAddToCart.UseVisualStyleBackColor = true;
@@ -307,9 +319,10 @@
             // 
             // TeaAddOns
             // 
-            this.TeaAddOns.Location = new System.Drawing.Point(635, 35);
+            this.TeaAddOns.Location = new System.Drawing.Point(476, 28);
+            this.TeaAddOns.Margin = new System.Windows.Forms.Padding(2);
             this.TeaAddOns.Name = "TeaAddOns";
-            this.TeaAddOns.Size = new System.Drawing.Size(139, 48);
+            this.TeaAddOns.Size = new System.Drawing.Size(104, 39);
             this.TeaAddOns.TabIndex = 35;
             this.TeaAddOns.Text = "Add Ons";
             this.TeaAddOns.UseVisualStyleBackColor = true;
@@ -318,10 +331,10 @@
             // TeaSmall
             // 
             this.TeaSmall.Image = global::Menus.Properties.Resources.SizeSmall;
-            this.TeaSmall.Location = new System.Drawing.Point(6, 24);
-            this.TeaSmall.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TeaSmall.Location = new System.Drawing.Point(4, 20);
+            this.TeaSmall.Margin = new System.Windows.Forms.Padding(2);
             this.TeaSmall.Name = "TeaSmall";
-            this.TeaSmall.Size = new System.Drawing.Size(76, 71);
+            this.TeaSmall.Size = new System.Drawing.Size(57, 58);
             this.TeaSmall.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.TeaSmall.TabIndex = 18;
             this.TeaSmall.TabStop = false;
@@ -330,10 +343,10 @@
             // TeaMed
             // 
             this.TeaMed.Image = global::Menus.Properties.Resources.SizeMed;
-            this.TeaMed.Location = new System.Drawing.Point(89, 24);
-            this.TeaMed.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TeaMed.Location = new System.Drawing.Point(67, 20);
+            this.TeaMed.Margin = new System.Windows.Forms.Padding(2);
             this.TeaMed.Name = "TeaMed";
-            this.TeaMed.Size = new System.Drawing.Size(75, 71);
+            this.TeaMed.Size = new System.Drawing.Size(56, 58);
             this.TeaMed.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.TeaMed.TabIndex = 19;
             this.TeaMed.TabStop = false;
@@ -341,15 +354,15 @@
             // 
             // TeaQTY
             // 
-            this.TeaQTY.Location = new System.Drawing.Point(381, 43);
-            this.TeaQTY.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TeaQTY.Location = new System.Drawing.Point(286, 35);
+            this.TeaQTY.Margin = new System.Windows.Forms.Padding(2);
             this.TeaQTY.Minimum = new decimal(new int[] {
             1,
             0,
             0,
             0});
             this.TeaQTY.Name = "TeaQTY";
-            this.TeaQTY.Size = new System.Drawing.Size(67, 35);
+            this.TeaQTY.Size = new System.Drawing.Size(50, 30);
             this.TeaQTY.TabIndex = 26;
             this.TeaQTY.Value = new decimal(new int[] {
             1,
@@ -361,19 +374,20 @@
             // TeaQTYLabel
             // 
             this.TeaQTYLabel.AutoSize = true;
-            this.TeaQTYLabel.Location = new System.Drawing.Point(280, 44);
+            this.TeaQTYLabel.Location = new System.Drawing.Point(210, 36);
+            this.TeaQTYLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.TeaQTYLabel.Name = "TeaQTYLabel";
-            this.TeaQTYLabel.Size = new System.Drawing.Size(92, 28);
+            this.TeaQTYLabel.Size = new System.Drawing.Size(76, 23);
             this.TeaQTYLabel.TabIndex = 32;
             this.TeaQTYLabel.Text = "Quantity";
             // 
             // TeaLarge
             // 
             this.TeaLarge.Image = global::Menus.Properties.Resources.SizeLarge;
-            this.TeaLarge.Location = new System.Drawing.Point(169, 24);
-            this.TeaLarge.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.TeaLarge.Location = new System.Drawing.Point(127, 20);
+            this.TeaLarge.Margin = new System.Windows.Forms.Padding(2);
             this.TeaLarge.Name = "TeaLarge";
-            this.TeaLarge.Size = new System.Drawing.Size(75, 71);
+            this.TeaLarge.Size = new System.Drawing.Size(56, 58);
             this.TeaLarge.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.TeaLarge.TabIndex = 20;
             this.TeaLarge.TabStop = false;
@@ -382,10 +396,10 @@
             // SteamIcon2
             // 
             this.SteamIcon2.Image = global::Menus.Properties.Resources.iconSteam;
-            this.SteamIcon2.Location = new System.Drawing.Point(1040, 23);
-            this.SteamIcon2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.SteamIcon2.Location = new System.Drawing.Point(780, 19);
+            this.SteamIcon2.Margin = new System.Windows.Forms.Padding(2);
             this.SteamIcon2.Name = "SteamIcon2";
-            this.SteamIcon2.Size = new System.Drawing.Size(91, 50);
+            this.SteamIcon2.Size = new System.Drawing.Size(68, 41);
             this.SteamIcon2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.SteamIcon2.TabIndex = 19;
             this.SteamIcon2.TabStop = false;
@@ -393,10 +407,10 @@
             // SteamIcon1
             // 
             this.SteamIcon1.Image = global::Menus.Properties.Resources.iconSteam;
-            this.SteamIcon1.Location = new System.Drawing.Point(648, 23);
-            this.SteamIcon1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.SteamIcon1.Location = new System.Drawing.Point(486, 19);
+            this.SteamIcon1.Margin = new System.Windows.Forms.Padding(2);
             this.SteamIcon1.Name = "SteamIcon1";
-            this.SteamIcon1.Size = new System.Drawing.Size(91, 50);
+            this.SteamIcon1.Size = new System.Drawing.Size(68, 41);
             this.SteamIcon1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.SteamIcon1.TabIndex = 18;
             this.SteamIcon1.TabStop = false;
@@ -406,9 +420,10 @@
             this.HotDrinksTitleLabel.Font = new System.Drawing.Font("Comic Sans MS", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.HotDrinksTitleLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.HotDrinksTitleLabel.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.HotDrinksTitleLabel.Location = new System.Drawing.Point(753, 23);
+            this.HotDrinksTitleLabel.Location = new System.Drawing.Point(565, 19);
+            this.HotDrinksTitleLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.HotDrinksTitleLabel.Name = "HotDrinksTitleLabel";
-            this.HotDrinksTitleLabel.Size = new System.Drawing.Size(269, 62);
+            this.HotDrinksTitleLabel.Size = new System.Drawing.Size(202, 50);
             this.HotDrinksTitleLabel.TabIndex = 17;
             this.HotDrinksTitleLabel.Text = "Hot Drinks";
             this.HotDrinksTitleLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -421,11 +436,11 @@
             this.HotChocoGroupBox.Controls.Add(this.HotChocoLabel);
             this.HotChocoGroupBox.Controls.Add(this.choicehotChocoGB);
             this.HotChocoGroupBox.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.HotChocoGroupBox.Location = new System.Drawing.Point(933, 98);
-            this.HotChocoGroupBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.HotChocoGroupBox.Location = new System.Drawing.Point(700, 80);
+            this.HotChocoGroupBox.Margin = new System.Windows.Forms.Padding(2);
             this.HotChocoGroupBox.Name = "HotChocoGroupBox";
-            this.HotChocoGroupBox.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.HotChocoGroupBox.Size = new System.Drawing.Size(747, 329);
+            this.HotChocoGroupBox.Padding = new System.Windows.Forms.Padding(2);
+            this.HotChocoGroupBox.Size = new System.Drawing.Size(560, 267);
             this.HotChocoGroupBox.TabIndex = 16;
             this.HotChocoGroupBox.TabStop = false;
             this.HotChocoGroupBox.Text = "Hot Chocolates";
@@ -434,9 +449,10 @@
             // 
             this.WhiteHotChocoLabel.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.WhiteHotChocoLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.WhiteHotChocoLabel.Location = new System.Drawing.Point(395, 185);
+            this.WhiteHotChocoLabel.Location = new System.Drawing.Point(296, 150);
+            this.WhiteHotChocoLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.WhiteHotChocoLabel.Name = "WhiteHotChocoLabel";
-            this.WhiteHotChocoLabel.Size = new System.Drawing.Size(165, 47);
+            this.WhiteHotChocoLabel.Size = new System.Drawing.Size(124, 38);
             this.WhiteHotChocoLabel.TabIndex = 17;
             this.WhiteHotChocoLabel.Text = "White Hot Chocolate";
             this.WhiteHotChocoLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -444,10 +460,10 @@
             // WhiteHotChocoPic
             // 
             this.WhiteHotChocoPic.Image = global::Menus.Properties.Resources.WhiteHotChocolate;
-            this.WhiteHotChocoPic.Location = new System.Drawing.Point(395, 34);
-            this.WhiteHotChocoPic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.WhiteHotChocoPic.Location = new System.Drawing.Point(296, 28);
+            this.WhiteHotChocoPic.Margin = new System.Windows.Forms.Padding(2);
             this.WhiteHotChocoPic.Name = "WhiteHotChocoPic";
-            this.WhiteHotChocoPic.Size = new System.Drawing.Size(165, 150);
+            this.WhiteHotChocoPic.Size = new System.Drawing.Size(124, 122);
             this.WhiteHotChocoPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.WhiteHotChocoPic.TabIndex = 11;
             this.WhiteHotChocoPic.TabStop = false;
@@ -456,10 +472,10 @@
             // HotChocoPic
             // 
             this.HotChocoPic.Image = global::Menus.Properties.Resources.HotChocolate;
-            this.HotChocoPic.Location = new System.Drawing.Point(203, 34);
-            this.HotChocoPic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.HotChocoPic.Location = new System.Drawing.Point(152, 28);
+            this.HotChocoPic.Margin = new System.Windows.Forms.Padding(2);
             this.HotChocoPic.Name = "HotChocoPic";
-            this.HotChocoPic.Size = new System.Drawing.Size(165, 150);
+            this.HotChocoPic.Size = new System.Drawing.Size(124, 122);
             this.HotChocoPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.HotChocoPic.TabIndex = 10;
             this.HotChocoPic.TabStop = false;
@@ -469,9 +485,10 @@
             // 
             this.HotChocoLabel.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.HotChocoLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.HotChocoLabel.Location = new System.Drawing.Point(206, 185);
+            this.HotChocoLabel.Location = new System.Drawing.Point(154, 150);
+            this.HotChocoLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.HotChocoLabel.Name = "HotChocoLabel";
-            this.HotChocoLabel.Size = new System.Drawing.Size(161, 37);
+            this.HotChocoLabel.Size = new System.Drawing.Size(121, 30);
             this.HotChocoLabel.TabIndex = 8;
             this.HotChocoLabel.Text = "Hot Chocolate";
             this.HotChocoLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -485,26 +502,29 @@
             this.choicehotChocoGB.Controls.Add(this.HotChocoQTY);
             this.choicehotChocoGB.Controls.Add(this.HotChocoSmall);
             this.choicehotChocoGB.Controls.Add(this.HotChocoMed);
-            this.choicehotChocoGB.Location = new System.Drawing.Point(6, 224);
+            this.choicehotChocoGB.Location = new System.Drawing.Point(4, 182);
+            this.choicehotChocoGB.Margin = new System.Windows.Forms.Padding(2);
             this.choicehotChocoGB.Name = "choicehotChocoGB";
-            this.choicehotChocoGB.Size = new System.Drawing.Size(735, 100);
+            this.choicehotChocoGB.Padding = new System.Windows.Forms.Padding(2);
+            this.choicehotChocoGB.Size = new System.Drawing.Size(551, 81);
             this.choicehotChocoGB.TabIndex = 35;
             this.choicehotChocoGB.TabStop = false;
             this.choicehotChocoGB.Visible = false;
             // 
             // HotChocoPriceLabel
             // 
-            this.HotChocoPriceLabel.Location = new System.Drawing.Point(444, 42);
+            this.HotChocoPriceLabel.Location = new System.Drawing.Point(333, 34);
+            this.HotChocoPriceLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.HotChocoPriceLabel.Name = "HotChocoPriceLabel";
-            this.HotChocoPriceLabel.Size = new System.Drawing.Size(110, 39);
+            this.HotChocoPriceLabel.Size = new System.Drawing.Size(82, 32);
             this.HotChocoPriceLabel.TabIndex = 36;
             // 
             // HotChocoAddToCart
             // 
-            this.HotChocoAddToCart.Location = new System.Drawing.Point(560, 38);
-            this.HotChocoAddToCart.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.HotChocoAddToCart.Location = new System.Drawing.Point(420, 31);
+            this.HotChocoAddToCart.Margin = new System.Windows.Forms.Padding(2);
             this.HotChocoAddToCart.Name = "HotChocoAddToCart";
-            this.HotChocoAddToCart.Size = new System.Drawing.Size(169, 48);
+            this.HotChocoAddToCart.Size = new System.Drawing.Size(127, 39);
             this.HotChocoAddToCart.TabIndex = 34;
             this.HotChocoAddToCart.Text = "Add to Cart";
             this.HotChocoAddToCart.UseVisualStyleBackColor = true;
@@ -513,19 +533,20 @@
             // HotChocoQTYLabel
             // 
             this.HotChocoQTYLabel.AutoSize = true;
-            this.HotChocoQTYLabel.Location = new System.Drawing.Point(261, 46);
+            this.HotChocoQTYLabel.Location = new System.Drawing.Point(196, 37);
+            this.HotChocoQTYLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.HotChocoQTYLabel.Name = "HotChocoQTYLabel";
-            this.HotChocoQTYLabel.Size = new System.Drawing.Size(92, 28);
+            this.HotChocoQTYLabel.Size = new System.Drawing.Size(76, 23);
             this.HotChocoQTYLabel.TabIndex = 32;
             this.HotChocoQTYLabel.Text = "Quantity";
             // 
             // HotChocoLarge
             // 
             this.HotChocoLarge.Image = global::Menus.Properties.Resources.SizeLarge;
-            this.HotChocoLarge.Location = new System.Drawing.Point(170, 24);
-            this.HotChocoLarge.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.HotChocoLarge.Location = new System.Drawing.Point(128, 20);
+            this.HotChocoLarge.Margin = new System.Windows.Forms.Padding(2);
             this.HotChocoLarge.Name = "HotChocoLarge";
-            this.HotChocoLarge.Size = new System.Drawing.Size(75, 71);
+            this.HotChocoLarge.Size = new System.Drawing.Size(56, 58);
             this.HotChocoLarge.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.HotChocoLarge.TabIndex = 20;
             this.HotChocoLarge.TabStop = false;
@@ -533,15 +554,15 @@
             // 
             // HotChocoQTY
             // 
-            this.HotChocoQTY.Location = new System.Drawing.Point(362, 45);
-            this.HotChocoQTY.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.HotChocoQTY.Location = new System.Drawing.Point(272, 37);
+            this.HotChocoQTY.Margin = new System.Windows.Forms.Padding(2);
             this.HotChocoQTY.Minimum = new decimal(new int[] {
             1,
             0,
             0,
             0});
             this.HotChocoQTY.Name = "HotChocoQTY";
-            this.HotChocoQTY.Size = new System.Drawing.Size(67, 35);
+            this.HotChocoQTY.Size = new System.Drawing.Size(50, 30);
             this.HotChocoQTY.TabIndex = 26;
             this.HotChocoQTY.Value = new decimal(new int[] {
             1,
@@ -553,10 +574,10 @@
             // HotChocoSmall
             // 
             this.HotChocoSmall.Image = global::Menus.Properties.Resources.SizeSmall;
-            this.HotChocoSmall.Location = new System.Drawing.Point(7, 24);
-            this.HotChocoSmall.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.HotChocoSmall.Location = new System.Drawing.Point(5, 20);
+            this.HotChocoSmall.Margin = new System.Windows.Forms.Padding(2);
             this.HotChocoSmall.Name = "HotChocoSmall";
-            this.HotChocoSmall.Size = new System.Drawing.Size(76, 71);
+            this.HotChocoSmall.Size = new System.Drawing.Size(57, 58);
             this.HotChocoSmall.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.HotChocoSmall.TabIndex = 18;
             this.HotChocoSmall.TabStop = false;
@@ -565,10 +586,10 @@
             // HotChocoMed
             // 
             this.HotChocoMed.Image = global::Menus.Properties.Resources.SizeMed;
-            this.HotChocoMed.Location = new System.Drawing.Point(90, 24);
-            this.HotChocoMed.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.HotChocoMed.Location = new System.Drawing.Point(68, 20);
+            this.HotChocoMed.Margin = new System.Windows.Forms.Padding(2);
             this.HotChocoMed.Name = "HotChocoMed";
-            this.HotChocoMed.Size = new System.Drawing.Size(75, 71);
+            this.HotChocoMed.Size = new System.Drawing.Size(56, 58);
             this.HotChocoMed.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.HotChocoMed.TabIndex = 19;
             this.HotChocoMed.TabStop = false;
@@ -586,11 +607,11 @@
             this.CoffeeGroupBox.Controls.Add(this.CoffeeLabel);
             this.CoffeeGroupBox.Controls.Add(this.choicesGB1);
             this.CoffeeGroupBox.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CoffeeGroupBox.Location = new System.Drawing.Point(62, 98);
-            this.CoffeeGroupBox.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.CoffeeGroupBox.Location = new System.Drawing.Point(46, 80);
+            this.CoffeeGroupBox.Margin = new System.Windows.Forms.Padding(2);
             this.CoffeeGroupBox.Name = "CoffeeGroupBox";
-            this.CoffeeGroupBox.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.CoffeeGroupBox.Size = new System.Drawing.Size(795, 329);
+            this.CoffeeGroupBox.Padding = new System.Windows.Forms.Padding(2);
+            this.CoffeeGroupBox.Size = new System.Drawing.Size(596, 267);
             this.CoffeeGroupBox.TabIndex = 11;
             this.CoffeeGroupBox.TabStop = false;
             this.CoffeeGroupBox.Text = "Classics Coffees";
@@ -599,9 +620,10 @@
             // 
             this.LatteLabel.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LatteLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.LatteLabel.Location = new System.Drawing.Point(203, 185);
+            this.LatteLabel.Location = new System.Drawing.Point(152, 150);
+            this.LatteLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LatteLabel.Name = "LatteLabel";
-            this.LatteLabel.Size = new System.Drawing.Size(165, 37);
+            this.LatteLabel.Size = new System.Drawing.Size(124, 30);
             this.LatteLabel.TabIndex = 17;
             this.LatteLabel.Text = "Latte";
             this.LatteLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -610,9 +632,10 @@
             // 
             this.CappuccinoLabel.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CappuccinoLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.CappuccinoLabel.Location = new System.Drawing.Point(393, 185);
+            this.CappuccinoLabel.Location = new System.Drawing.Point(295, 150);
+            this.CappuccinoLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.CappuccinoLabel.Name = "CappuccinoLabel";
-            this.CappuccinoLabel.Size = new System.Drawing.Size(165, 37);
+            this.CappuccinoLabel.Size = new System.Drawing.Size(124, 30);
             this.CappuccinoLabel.TabIndex = 16;
             this.CappuccinoLabel.Text = "Cappuccino";
             this.CappuccinoLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -621,9 +644,10 @@
             // 
             this.AmericanoLabel.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.AmericanoLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.AmericanoLabel.Location = new System.Drawing.Point(588, 185);
+            this.AmericanoLabel.Location = new System.Drawing.Point(441, 150);
+            this.AmericanoLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.AmericanoLabel.Name = "AmericanoLabel";
-            this.AmericanoLabel.Size = new System.Drawing.Size(165, 37);
+            this.AmericanoLabel.Size = new System.Drawing.Size(124, 30);
             this.AmericanoLabel.TabIndex = 15;
             this.AmericanoLabel.Text = "Americano";
             this.AmericanoLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -631,10 +655,10 @@
             // AmericanoPic
             // 
             this.AmericanoPic.Image = global::Menus.Properties.Resources.CoffeeAmericano;
-            this.AmericanoPic.Location = new System.Drawing.Point(588, 34);
-            this.AmericanoPic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.AmericanoPic.Location = new System.Drawing.Point(441, 28);
+            this.AmericanoPic.Margin = new System.Windows.Forms.Padding(2);
             this.AmericanoPic.Name = "AmericanoPic";
-            this.AmericanoPic.Size = new System.Drawing.Size(165, 150);
+            this.AmericanoPic.Size = new System.Drawing.Size(124, 122);
             this.AmericanoPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.AmericanoPic.TabIndex = 13;
             this.AmericanoPic.TabStop = false;
@@ -643,10 +667,10 @@
             // CappuccinoPic
             // 
             this.CappuccinoPic.Image = global::Menus.Properties.Resources.CoffeeCappuccino;
-            this.CappuccinoPic.Location = new System.Drawing.Point(393, 34);
-            this.CappuccinoPic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.CappuccinoPic.Location = new System.Drawing.Point(295, 28);
+            this.CappuccinoPic.Margin = new System.Windows.Forms.Padding(2);
             this.CappuccinoPic.Name = "CappuccinoPic";
-            this.CappuccinoPic.Size = new System.Drawing.Size(165, 150);
+            this.CappuccinoPic.Size = new System.Drawing.Size(124, 122);
             this.CappuccinoPic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.CappuccinoPic.TabIndex = 12;
             this.CappuccinoPic.TabStop = false;
@@ -655,10 +679,10 @@
             // LattePic
             // 
             this.LattePic.Image = global::Menus.Properties.Resources.CoffeeLatte;
-            this.LattePic.Location = new System.Drawing.Point(203, 34);
-            this.LattePic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.LattePic.Location = new System.Drawing.Point(152, 28);
+            this.LattePic.Margin = new System.Windows.Forms.Padding(2);
             this.LattePic.Name = "LattePic";
-            this.LattePic.Size = new System.Drawing.Size(165, 150);
+            this.LattePic.Size = new System.Drawing.Size(124, 122);
             this.LattePic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.LattePic.TabIndex = 11;
             this.LattePic.TabStop = false;
@@ -667,10 +691,10 @@
             // CoffeePic
             // 
             this.CoffeePic.Image = global::Menus.Properties.Resources.Coffee;
-            this.CoffeePic.Location = new System.Drawing.Point(11, 34);
-            this.CoffeePic.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.CoffeePic.Location = new System.Drawing.Point(8, 28);
+            this.CoffeePic.Margin = new System.Windows.Forms.Padding(2);
             this.CoffeePic.Name = "CoffeePic";
-            this.CoffeePic.Size = new System.Drawing.Size(165, 150);
+            this.CoffeePic.Size = new System.Drawing.Size(124, 122);
             this.CoffeePic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.CoffeePic.TabIndex = 10;
             this.CoffeePic.TabStop = false;
@@ -680,9 +704,10 @@
             // 
             this.CoffeeLabel.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.CoffeeLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.CoffeeLabel.Location = new System.Drawing.Point(13, 185);
+            this.CoffeeLabel.Location = new System.Drawing.Point(10, 150);
+            this.CoffeeLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.CoffeeLabel.Name = "CoffeeLabel";
-            this.CoffeeLabel.Size = new System.Drawing.Size(161, 37);
+            this.CoffeeLabel.Size = new System.Drawing.Size(121, 30);
             this.CoffeeLabel.TabIndex = 8;
             this.CoffeeLabel.Text = "Coffee";
             this.CoffeeLabel.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -697,25 +722,29 @@
             this.choicesGB1.Controls.Add(this.CoffeeQTYLabel);
             this.choicesGB1.Controls.Add(this.CoffeeQTY);
             this.choicesGB1.Controls.Add(this.CoffeeMed);
-            this.choicesGB1.Location = new System.Drawing.Point(5, 225);
+            this.choicesGB1.Location = new System.Drawing.Point(4, 183);
+            this.choicesGB1.Margin = new System.Windows.Forms.Padding(2);
             this.choicesGB1.Name = "choicesGB1";
-            this.choicesGB1.Size = new System.Drawing.Size(784, 100);
+            this.choicesGB1.Padding = new System.Windows.Forms.Padding(2);
+            this.choicesGB1.Size = new System.Drawing.Size(588, 81);
             this.choicesGB1.TabIndex = 35;
             this.choicesGB1.TabStop = false;
             this.choicesGB1.Visible = false;
             // 
             // CoffeePriceLabel
             // 
-            this.CoffeePriceLabel.Location = new System.Drawing.Point(472, 41);
+            this.CoffeePriceLabel.Location = new System.Drawing.Point(354, 33);
+            this.CoffeePriceLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.CoffeePriceLabel.Name = "CoffeePriceLabel";
-            this.CoffeePriceLabel.Size = new System.Drawing.Size(110, 39);
+            this.CoffeePriceLabel.Size = new System.Drawing.Size(82, 32);
             this.CoffeePriceLabel.TabIndex = 35;
             // 
             // CoffeeAddToCart
             // 
-            this.CoffeeAddToCart.Location = new System.Drawing.Point(636, 57);
+            this.CoffeeAddToCart.Location = new System.Drawing.Point(477, 46);
+            this.CoffeeAddToCart.Margin = new System.Windows.Forms.Padding(2);
             this.CoffeeAddToCart.Name = "CoffeeAddToCart";
-            this.CoffeeAddToCart.Size = new System.Drawing.Size(142, 38);
+            this.CoffeeAddToCart.Size = new System.Drawing.Size(106, 31);
             this.CoffeeAddToCart.TabIndex = 34;
             this.CoffeeAddToCart.Text = "Add to Cart";
             this.CoffeeAddToCart.UseVisualStyleBackColor = true;
@@ -724,10 +753,10 @@
             // CoffeeLarge
             // 
             this.CoffeeLarge.Image = global::Menus.Properties.Resources.SizeLarge;
-            this.CoffeeLarge.Location = new System.Drawing.Point(170, 24);
-            this.CoffeeLarge.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.CoffeeLarge.Location = new System.Drawing.Point(128, 20);
+            this.CoffeeLarge.Margin = new System.Windows.Forms.Padding(2);
             this.CoffeeLarge.Name = "CoffeeLarge";
-            this.CoffeeLarge.Size = new System.Drawing.Size(75, 71);
+            this.CoffeeLarge.Size = new System.Drawing.Size(56, 58);
             this.CoffeeLarge.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.CoffeeLarge.TabIndex = 20;
             this.CoffeeLarge.TabStop = false;
@@ -735,9 +764,10 @@
             // 
             // CoffeeAddOns
             // 
-            this.CoffeeAddOns.Location = new System.Drawing.Point(653, 19);
+            this.CoffeeAddOns.Location = new System.Drawing.Point(490, 15);
+            this.CoffeeAddOns.Margin = new System.Windows.Forms.Padding(2);
             this.CoffeeAddOns.Name = "CoffeeAddOns";
-            this.CoffeeAddOns.Size = new System.Drawing.Size(116, 38);
+            this.CoffeeAddOns.Size = new System.Drawing.Size(87, 31);
             this.CoffeeAddOns.TabIndex = 33;
             this.CoffeeAddOns.Text = "Add Ons";
             this.CoffeeAddOns.UseVisualStyleBackColor = true;
@@ -746,10 +776,10 @@
             // CoffeeSmall
             // 
             this.CoffeeSmall.Image = global::Menus.Properties.Resources.SizeSmall;
-            this.CoffeeSmall.Location = new System.Drawing.Point(7, 24);
-            this.CoffeeSmall.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.CoffeeSmall.Location = new System.Drawing.Point(5, 20);
+            this.CoffeeSmall.Margin = new System.Windows.Forms.Padding(2);
             this.CoffeeSmall.Name = "CoffeeSmall";
-            this.CoffeeSmall.Size = new System.Drawing.Size(76, 71);
+            this.CoffeeSmall.Size = new System.Drawing.Size(57, 58);
             this.CoffeeSmall.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.CoffeeSmall.TabIndex = 18;
             this.CoffeeSmall.TabStop = false;
@@ -758,23 +788,24 @@
             // CoffeeQTYLabel
             // 
             this.CoffeeQTYLabel.AutoSize = true;
-            this.CoffeeQTYLabel.Location = new System.Drawing.Point(266, 46);
+            this.CoffeeQTYLabel.Location = new System.Drawing.Point(200, 37);
+            this.CoffeeQTYLabel.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.CoffeeQTYLabel.Name = "CoffeeQTYLabel";
-            this.CoffeeQTYLabel.Size = new System.Drawing.Size(92, 28);
+            this.CoffeeQTYLabel.Size = new System.Drawing.Size(76, 23);
             this.CoffeeQTYLabel.TabIndex = 32;
             this.CoffeeQTYLabel.Text = "Quantity";
             // 
             // CoffeeQTY
             // 
-            this.CoffeeQTY.Location = new System.Drawing.Point(367, 45);
-            this.CoffeeQTY.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.CoffeeQTY.Location = new System.Drawing.Point(275, 37);
+            this.CoffeeQTY.Margin = new System.Windows.Forms.Padding(2);
             this.CoffeeQTY.Minimum = new decimal(new int[] {
             1,
             0,
             0,
             0});
             this.CoffeeQTY.Name = "CoffeeQTY";
-            this.CoffeeQTY.Size = new System.Drawing.Size(67, 35);
+            this.CoffeeQTY.Size = new System.Drawing.Size(50, 30);
             this.CoffeeQTY.TabIndex = 26;
             this.CoffeeQTY.Value = new decimal(new int[] {
             1,
@@ -786,23 +817,29 @@
             // CoffeeMed
             // 
             this.CoffeeMed.Image = global::Menus.Properties.Resources.SizeMed;
-            this.CoffeeMed.Location = new System.Drawing.Point(90, 24);
-            this.CoffeeMed.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.CoffeeMed.Location = new System.Drawing.Point(68, 20);
+            this.CoffeeMed.Margin = new System.Windows.Forms.Padding(2);
             this.CoffeeMed.Name = "CoffeeMed";
-            this.CoffeeMed.Size = new System.Drawing.Size(75, 71);
+            this.CoffeeMed.Size = new System.Drawing.Size(56, 58);
             this.CoffeeMed.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.CoffeeMed.TabIndex = 19;
             this.CoffeeMed.TabStop = false;
             this.CoffeeMed.Click += new System.EventHandler(this.CoffeeMed_Click);
             // 
+            // comfyCafeDBDataSet
+            // 
+            this.comfyCafeDBDataSet.DataSetName = "ComfyCafeDBDataSet";
+            this.comfyCafeDBDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
             // HotDrinksForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1741, 693);
+            this.ClientSize = new System.Drawing.Size(1306, 722);
             this.Controls.Add(this.BackgroundPanel);
             this.Name = "HotDrinksForm";
             this.Text = "Hot Drinks";
+            this.Load += new System.EventHandler(this.HotDrinksForm_Load);
             this.Controls.SetChildIndex(this.BackgroundPanel, 0);
             this.BackgroundPanel.ResumeLayout(false);
             this.TeaGroupBox.ResumeLayout(false);
@@ -839,6 +876,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.CoffeeSmall)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.CoffeeQTY)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.CoffeeMed)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.comfyCafeDBDataSet)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -900,6 +938,7 @@
         private System.Windows.Forms.Label TeaPriceLabel;
         private System.Windows.Forms.Label HotChocoPriceLabel;
         private System.Windows.Forms.Label CoffeePriceLabel;
+        private ComfyCafeDBDataSet comfyCafeDBDataSet;
     }
 }
 

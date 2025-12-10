@@ -39,17 +39,21 @@
             this.menuItemsBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.menuItemsTableAdapter = new Menus.ComfyCafeDBDataSetTableAdapters.MenuItemsTableAdapter();
             this.tableAdapterManager = new Menus.ComfyCafeDBDataSetTableAdapters.TableAdapterManager();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.firstNameTextBox = new System.Windows.Forms.TextBox();
             this.detailsLabel = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.emailTextBox = new System.Windows.Forms.TextBox();
+            this.addressTextBox = new System.Windows.Forms.TextBox();
+            this.pickupRadio = new System.Windows.Forms.RadioButton();
+            this.deliveryRadio = new System.Windows.Forms.RadioButton();
+            this.nameLabel = new System.Windows.Forms.Label();
+            this.emailLabel = new System.Windows.Forms.Label();
+            this.addressLabel = new System.Windows.Forms.Label();
+            this.cardLabel = new System.Windows.Forms.Label();
+            this.cardTextBox = new System.Windows.Forms.TextBox();
+            this.expirationTextBox = new System.Windows.Forms.TextBox();
+            this.CVVTextBox = new System.Windows.Forms.TextBox();
+            this.ZIPTextBox = new System.Windows.Forms.TextBox();
+            this.lastNameTextBox = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.comfyCafeDBDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.menuItemsBindingSource)).BeginInit();
             this.SuspendLayout();
@@ -66,7 +70,7 @@
             this.listViewCart.GridLines = true;
             this.listViewCart.HeaderStyle = System.Windows.Forms.ColumnHeaderStyle.Nonclickable;
             this.listViewCart.HideSelection = false;
-            this.listViewCart.Location = new System.Drawing.Point(280, 64);
+            this.listViewCart.Location = new System.Drawing.Point(280, 41);
             this.listViewCart.Margin = new System.Windows.Forms.Padding(2);
             this.listViewCart.Name = "listViewCart";
             this.listViewCart.Size = new System.Drawing.Size(239, 248);
@@ -92,11 +96,12 @@
             // lblTotal
             // 
             this.lblTotal.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblTotal.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.lblTotal.Font = new System.Drawing.Font("Segoe UI", 11F);
-            this.lblTotal.Location = new System.Drawing.Point(291, 330);
+            this.lblTotal.Location = new System.Drawing.Point(280, 307);
             this.lblTotal.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblTotal.Name = "lblTotal";
-            this.lblTotal.Size = new System.Drawing.Size(195, 41);
+            this.lblTotal.Size = new System.Drawing.Size(239, 41);
             this.lblTotal.TabIndex = 3;
             this.lblTotal.Text = "Total: $0.00";
             this.lblTotal.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -106,13 +111,14 @@
             this.payButton.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.payButton.BackColor = System.Drawing.Color.White;
             this.payButton.Font = new System.Drawing.Font("Comic Sans MS", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.payButton.Location = new System.Drawing.Point(11, 330);
+            this.payButton.Location = new System.Drawing.Point(11, 307);
             this.payButton.Margin = new System.Windows.Forms.Padding(2);
             this.payButton.Name = "payButton";
-            this.payButton.Size = new System.Drawing.Size(265, 41);
+            this.payButton.Size = new System.Drawing.Size(258, 41);
             this.payButton.TabIndex = 5;
             this.payButton.Text = "&Pay";
             this.payButton.UseVisualStyleBackColor = false;
+            this.payButton.Click += new System.EventHandler(this.payButton_Click);
             // 
             // comfyCafeDBDataSet
             // 
@@ -134,100 +140,146 @@
             this.tableAdapterManager.MenuItemsTableAdapter = this.menuItemsTableAdapter;
             this.tableAdapterManager.UpdateOrder = Menus.ComfyCafeDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete;
             // 
-            // textBox1
+            // firstNameTextBox
             // 
-            this.textBox1.Location = new System.Drawing.Point(15, 107);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(247, 20);
-            this.textBox1.TabIndex = 6;
+            this.firstNameTextBox.Location = new System.Drawing.Point(15, 74);
+            this.firstNameTextBox.Name = "firstNameTextBox";
+            this.firstNameTextBox.Size = new System.Drawing.Size(117, 20);
+            this.firstNameTextBox.TabIndex = 6;
+            this.firstNameTextBox.TextChanged += new System.EventHandler(this.firstNameTextBox_TextChanged);
+            this.firstNameTextBox.DoubleClick += new System.EventHandler(this.firstNameTextBox_DoubleClick);
             // 
             // detailsLabel
             // 
             this.detailsLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.detailsLabel.Location = new System.Drawing.Point(12, 64);
+            this.detailsLabel.Location = new System.Drawing.Point(12, 31);
             this.detailsLabel.Name = "detailsLabel";
             this.detailsLabel.Size = new System.Drawing.Size(168, 20);
             this.detailsLabel.TabIndex = 7;
             this.detailsLabel.Text = "Customer details";
             // 
-            // textBox2
+            // emailTextBox
             // 
-            this.textBox2.Location = new System.Drawing.Point(15, 155);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(247, 20);
-            this.textBox2.TabIndex = 8;
+            this.emailTextBox.Location = new System.Drawing.Point(15, 122);
+            this.emailTextBox.Name = "emailTextBox";
+            this.emailTextBox.Size = new System.Drawing.Size(247, 20);
+            this.emailTextBox.TabIndex = 8;
+            this.emailTextBox.TextChanged += new System.EventHandler(this.emailTextBox_TextChanged);
+            this.emailTextBox.DoubleClick += new System.EventHandler(this.emailTextBox_DoubleClick);
             // 
-            // textBox3
+            // addressTextBox
             // 
-            this.textBox3.Location = new System.Drawing.Point(15, 204);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(247, 20);
-            this.textBox3.TabIndex = 9;
+            this.addressTextBox.Location = new System.Drawing.Point(15, 171);
+            this.addressTextBox.Name = "addressTextBox";
+            this.addressTextBox.Size = new System.Drawing.Size(247, 20);
+            this.addressTextBox.TabIndex = 9;
+            this.addressTextBox.TextChanged += new System.EventHandler(this.addressTextBox_TextChanged);
+            this.addressTextBox.DoubleClick += new System.EventHandler(this.addressTextBox_DoubleClick);
             // 
-            // radioButton1
+            // pickupRadio
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(15, 295);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(85, 17);
-            this.radioButton1.TabIndex = 10;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "radioButton1";
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.pickupRadio.AutoSize = true;
+            this.pickupRadio.Location = new System.Drawing.Point(15, 272);
+            this.pickupRadio.Name = "pickupRadio";
+            this.pickupRadio.Size = new System.Drawing.Size(58, 17);
+            this.pickupRadio.TabIndex = 10;
+            this.pickupRadio.TabStop = true;
+            this.pickupRadio.Text = "Pickup";
+            this.pickupRadio.UseVisualStyleBackColor = true;
+            this.pickupRadio.CheckedChanged += new System.EventHandler(this.pickupRadio_CheckedChanged);
             // 
-            // radioButton2
+            // deliveryRadio
             // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(118, 295);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(85, 17);
-            this.radioButton2.TabIndex = 11;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "radioButton2";
-            this.radioButton2.UseVisualStyleBackColor = true;
+            this.deliveryRadio.AutoSize = true;
+            this.deliveryRadio.Location = new System.Drawing.Point(118, 272);
+            this.deliveryRadio.Name = "deliveryRadio";
+            this.deliveryRadio.Size = new System.Drawing.Size(63, 17);
+            this.deliveryRadio.TabIndex = 11;
+            this.deliveryRadio.TabStop = true;
+            this.deliveryRadio.Text = "Delivery";
+            this.deliveryRadio.UseVisualStyleBackColor = true;
+            this.deliveryRadio.CheckedChanged += new System.EventHandler(this.deliveryRadio_CheckedChanged);
             // 
-            // label1
+            // nameLabel
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(15, 88);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
-            this.label1.TabIndex = 12;
-            this.label1.Text = "label1";
+            this.nameLabel.Location = new System.Drawing.Point(15, 51);
+            this.nameLabel.Name = "nameLabel";
+            this.nameLabel.Size = new System.Drawing.Size(227, 17);
+            this.nameLabel.TabIndex = 12;
+            this.nameLabel.Text = "Name";
             // 
-            // label2
+            // emailLabel
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(15, 139);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 13);
-            this.label2.TabIndex = 13;
-            this.label2.Text = "label2";
+            this.emailLabel.AutoSize = true;
+            this.emailLabel.Location = new System.Drawing.Point(15, 106);
+            this.emailLabel.Name = "emailLabel";
+            this.emailLabel.Size = new System.Drawing.Size(32, 13);
+            this.emailLabel.TabIndex = 13;
+            this.emailLabel.Text = "Email";
             // 
-            // label3
+            // addressLabel
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(15, 188);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(35, 13);
-            this.label3.TabIndex = 14;
-            this.label3.Text = "label3";
+            this.addressLabel.AutoSize = true;
+            this.addressLabel.Location = new System.Drawing.Point(15, 155);
+            this.addressLabel.Name = "addressLabel";
+            this.addressLabel.Size = new System.Drawing.Size(45, 13);
+            this.addressLabel.TabIndex = 14;
+            this.addressLabel.Text = "Address";
             // 
-            // label4
+            // cardLabel
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(15, 231);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(35, 13);
-            this.label4.TabIndex = 16;
-            this.label4.Text = "label4";
+            this.cardLabel.AutoSize = true;
+            this.cardLabel.Location = new System.Drawing.Point(15, 198);
+            this.cardLabel.Name = "cardLabel";
+            this.cardLabel.Size = new System.Drawing.Size(96, 13);
+            this.cardLabel.TabIndex = 16;
+            this.cardLabel.Text = "Credit or debit card";
             // 
-            // textBox4
+            // cardTextBox
             // 
-            this.textBox4.Location = new System.Drawing.Point(15, 247);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(247, 20);
-            this.textBox4.TabIndex = 15;
+            this.cardTextBox.AccessibleName = "";
+            this.cardTextBox.Location = new System.Drawing.Point(15, 214);
+            this.cardTextBox.Name = "cardTextBox";
+            this.cardTextBox.Size = new System.Drawing.Size(247, 20);
+            this.cardTextBox.TabIndex = 15;
+            this.cardTextBox.TextChanged += new System.EventHandler(this.cardTextBox_TextChanged);
+            this.cardTextBox.DoubleClick += new System.EventHandler(this.cardTextBox_DoubleClick);
+            // 
+            // expirationTextBox
+            // 
+            this.expirationTextBox.Location = new System.Drawing.Point(15, 240);
+            this.expirationTextBox.Name = "expirationTextBox";
+            this.expirationTextBox.Size = new System.Drawing.Size(59, 20);
+            this.expirationTextBox.TabIndex = 17;
+            this.expirationTextBox.TextChanged += new System.EventHandler(this.expirationTextBox_TextChanged);
+            this.expirationTextBox.DoubleClick += new System.EventHandler(this.expirationTextBox_DoubleClick);
+            // 
+            // CVVTextBox
+            // 
+            this.CVVTextBox.Location = new System.Drawing.Point(80, 240);
+            this.CVVTextBox.Name = "CVVTextBox";
+            this.CVVTextBox.Size = new System.Drawing.Size(59, 20);
+            this.CVVTextBox.TabIndex = 18;
+            this.CVVTextBox.TextChanged += new System.EventHandler(this.CVVTextBox_TextChanged);
+            this.CVVTextBox.DoubleClick += new System.EventHandler(this.CVVTextBox_DoubleClick);
+            // 
+            // ZIPTextBox
+            // 
+            this.ZIPTextBox.Location = new System.Drawing.Point(145, 240);
+            this.ZIPTextBox.Name = "ZIPTextBox";
+            this.ZIPTextBox.Size = new System.Drawing.Size(117, 20);
+            this.ZIPTextBox.TabIndex = 19;
+            this.ZIPTextBox.TextChanged += new System.EventHandler(this.ZIPTextBox_TextChanged);
+            this.ZIPTextBox.DoubleClick += new System.EventHandler(this.ZIPTextBox_DoubleClick);
+            // 
+            // lastNameTextBox
+            // 
+            this.lastNameTextBox.Location = new System.Drawing.Point(138, 74);
+            this.lastNameTextBox.Name = "lastNameTextBox";
+            this.lastNameTextBox.Size = new System.Drawing.Size(124, 20);
+            this.lastNameTextBox.TabIndex = 20;
+            this.lastNameTextBox.TextChanged += new System.EventHandler(this.lastNameTextBox_TextChanged);
+            this.lastNameTextBox.DoubleClick += new System.EventHandler(this.lastNameTextBox_DoubleClick);
             // 
             // Checkout
             // 
@@ -235,37 +287,27 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(236)))), ((int)(((byte)(187)))), ((int)(((byte)(129)))));
             this.ClientSize = new System.Drawing.Size(530, 379);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.radioButton2);
-            this.Controls.Add(this.radioButton1);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.lastNameTextBox);
+            this.Controls.Add(this.ZIPTextBox);
+            this.Controls.Add(this.CVVTextBox);
+            this.Controls.Add(this.expirationTextBox);
+            this.Controls.Add(this.cardLabel);
+            this.Controls.Add(this.cardTextBox);
+            this.Controls.Add(this.addressLabel);
+            this.Controls.Add(this.emailLabel);
+            this.Controls.Add(this.nameLabel);
+            this.Controls.Add(this.deliveryRadio);
+            this.Controls.Add(this.pickupRadio);
+            this.Controls.Add(this.addressTextBox);
+            this.Controls.Add(this.emailTextBox);
             this.Controls.Add(this.detailsLabel);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.firstNameTextBox);
             this.Controls.Add(this.lblTotal);
             this.Controls.Add(this.payButton);
             this.Controls.Add(this.listViewCart);
             this.Name = "Checkout";
             this.Text = "Checkout";
             this.Load += new System.EventHandler(this.Checkout_Load);
-            this.Controls.SetChildIndex(this.listViewCart, 0);
-            this.Controls.SetChildIndex(this.payButton, 0);
-            this.Controls.SetChildIndex(this.lblTotal, 0);
-            this.Controls.SetChildIndex(this.textBox1, 0);
-            this.Controls.SetChildIndex(this.detailsLabel, 0);
-            this.Controls.SetChildIndex(this.textBox2, 0);
-            this.Controls.SetChildIndex(this.textBox3, 0);
-            this.Controls.SetChildIndex(this.radioButton1, 0);
-            this.Controls.SetChildIndex(this.radioButton2, 0);
-            this.Controls.SetChildIndex(this.label1, 0);
-            this.Controls.SetChildIndex(this.label2, 0);
-            this.Controls.SetChildIndex(this.label3, 0);
-            this.Controls.SetChildIndex(this.textBox4, 0);
-            this.Controls.SetChildIndex(this.label4, 0);
             ((System.ComponentModel.ISupportInitialize)(this.comfyCafeDBDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.menuItemsBindingSource)).EndInit();
             this.ResumeLayout(false);
@@ -285,16 +327,20 @@
         private System.Windows.Forms.BindingSource menuItemsBindingSource;
         private ComfyCafeDBDataSetTableAdapters.MenuItemsTableAdapter menuItemsTableAdapter;
         private ComfyCafeDBDataSetTableAdapters.TableAdapterManager tableAdapterManager;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox firstNameTextBox;
         private System.Windows.Forms.Label detailsLabel;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.RadioButton radioButton1;
-        private System.Windows.Forms.RadioButton radioButton2;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox emailTextBox;
+        private System.Windows.Forms.TextBox addressTextBox;
+        private System.Windows.Forms.RadioButton pickupRadio;
+        private System.Windows.Forms.RadioButton deliveryRadio;
+        private System.Windows.Forms.Label nameLabel;
+        private System.Windows.Forms.Label emailLabel;
+        private System.Windows.Forms.Label addressLabel;
+        private System.Windows.Forms.Label cardLabel;
+        private System.Windows.Forms.TextBox cardTextBox;
+        private System.Windows.Forms.TextBox expirationTextBox;
+        private System.Windows.Forms.TextBox CVVTextBox;
+        private System.Windows.Forms.TextBox ZIPTextBox;
+        private System.Windows.Forms.TextBox lastNameTextBox;
     }
 }

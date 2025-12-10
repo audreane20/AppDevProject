@@ -19,3 +19,14 @@ E:\W25\Application Development\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug
 E:\W25\Application Development\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.csproj.CoreCompileInputs.cache
 E:\W25\Application Development\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.dll
 E:\W25\Application Development\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.pdb
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\MenuSetup\obj\Debug\MenuSetup.csproj.AssemblyReference.cache
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\MenuSetup\obj\Debug\MenuSetup.MenuSetup.resources
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\MenuSetup\obj\Debug\MenuSetup.Properties.Resources.resources
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\MenuSetup\obj\Debug\MenuSetup.csproj.GenerateResource.cache
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\MenuSetup\obj\Debug\MenuSetup.csproj.CoreCompileInputs.cache
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\MenuSetup\obj\Debug\MenuSetup.dll
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\MenuSetup\obj\Debug\MenuSetup.pdb
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\MenuSetup\bin\Debug\MenuSetup.dll.config
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\MenuSetup\bin\Debug\MenuSetup.dll
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\MenuSetup\bin\Debug\MenuSetup.pdb
+C:\Users\User11\OneDrive\Documents\GitHub\AppDevProject\MenuSetup\obj\Debug\MenuSetup.csproj.Up2Date

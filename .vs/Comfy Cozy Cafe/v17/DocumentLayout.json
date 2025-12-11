@@ -83,8 +83,7 @@
               "ViewState": "AgIAAKkAAAAAAAAAAAAQwLwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T23:13:27.731Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "Menus\\Checkout.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T23:13:22.138Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "Menus\\Cart.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwFgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T20:06:51.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T20:06:51.746Z"
             },
             {
               "$type": "Document",
@@ -125,8 +122,7 @@
               "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Cart.cs [Design]",
               "RelativeToolTip": "Menus\\Cart.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T20:06:49.767Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-10T20:06:49.767Z"
             },
             {
               "$type": "Document",
@@ -138,8 +134,7 @@
               "RelativeToolTip": "Menus\\ColdDrinks.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T04:18:09.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T04:18:09.055Z"
             },
             {
               "$type": "Document",
@@ -150,8 +145,7 @@
               "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\ColdDrinks.cs [Design]",
               "RelativeToolTip": "Menus\\ColdDrinks.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T04:18:07.185Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-10T04:18:07.185Z"
             },
             {
               "$type": "Document",
@@ -183,7 +177,7 @@
               "RelativeDocumentMoniker": "Menus\\Delivery.cs",
               "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\Menus\\Delivery.cs",
               "RelativeToolTip": "Menus\\Delivery.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAA8wE0AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwE0AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T02:11:44.58Z",
               "EditorCaption": ""
@@ -244,8 +238,7 @@
               "ToolTip": "C:\\Users\\User11\\OneDrive\\Documents\\GitHub\\AppDevProject\\MenuSetup\\MenuSetup.cs [Design]",
               "RelativeToolTip": "MenuSetup\\MenuSetup.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T21:47:22.436Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-09T21:47:22.436Z"
             },
             {
               "$type": "Document",
@@ -257,8 +250,7 @@
               "RelativeToolTip": "MenuSetup\\MenuSetup.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAswDkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T21:02:53.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T21:02:53.679Z"
             }
           ]
         }

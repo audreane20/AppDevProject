@@ -14,8 +14,10 @@ namespace Menus
     {
         int num;
         string email;
-        public DeliveryForm(string email,int num)
+        Menus.Checkout checkoutForm;
+        public DeliveryForm(Menus.Checkout checkoutForm, string email,int num)
         {
+            this.checkoutForm = checkoutForm;
             this.email = email;
             this.num = num;
             InitializeComponent();
@@ -36,6 +38,7 @@ namespace Menus
         {
             MessageBox.Show("Thank you for your order! A confirmation email has been sent to " + email + ".", $"Order {num} Confirmed", MessageBoxButtons.OK, MessageBoxIcon.Information);
             this.Close();
+            checkoutForm.Close(); 
         }
 
         private int generateOrderNumber()

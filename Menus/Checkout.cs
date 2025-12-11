@@ -117,7 +117,7 @@ namespace Menus
             firstNameTextBox.Text = "First Name";
             lastNameTextBox.Text = "Last Name";
             emailTextBox.Text = "Email Address";
-            addressTextBox.Text = "Home Address";
+            addressTextBox.Text = "Billing Address";
             cardTextBox.Text = "Card Number";
             expirationTextBox.Text = "MM/YY";
             CVVTextBox.Text = "CVV";
@@ -180,7 +180,7 @@ namespace Menus
             if (deliveryRadio.Checked)
             {
                 total += total * 0.15;
-                DeliveryForm deliveryForm = new DeliveryForm(emailTextBox.Text,generateOrderNumber());
+                DeliveryForm deliveryForm = new DeliveryForm(this,emailTextBox.Text,generateOrderNumber());
                 deliveryForm.Show();
             }
             else

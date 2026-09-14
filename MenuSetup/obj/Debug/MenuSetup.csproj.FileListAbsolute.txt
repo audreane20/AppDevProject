@@ -1,0 +1,332 @@
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\bin\Debug\MenuSetup.dll.config
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\bin\Debug\MenuSetup.dll
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\bin\Debug\MenuSetup.pdb
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.csproj.AssemblyReference.cache
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.MenuSetup.resources
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.Properties.Resources.resources
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.csproj.GenerateResource.cache
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.csproj.CoreCompileInputs.cache
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.dll
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.pdb
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\bin\Debug\Menus.exe
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\bin\Debug\Menus.pdb
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\bin\Debug\Menus.exe.config
+C:\Users\audre\OneDrive\Fall\Fall 2025\Application Developement 1 (Desktop)\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.csproj.Up2Date
+E:\W25\Application Development\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.csproj.AssemblyReference.cache
+E:\W25\Application Development\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.MenuSetup.resources
+E:\W25\Application Development\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.Properties.Resources.resources
+E:\W25\Application Development\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.csproj.GenerateResource.cache
+E:\W25\Application Development\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.csproj.CoreCompileInputs.cache
+E:\W25\Application Development\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.dll
+E:\W25\Application Development\Final Project\Comfy Cozy Cafe\MenuSetup\obj\Debug\MenuSetup.pdb
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.AssemblyReference.cache
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.MenuSetup.resources
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.Properties.Resources.resources
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.MenuSetup.es.resources
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.MenuSetup.fr-CA.resources
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.GenerateResource.cache
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.CoreCompileInputs.cache
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.dll
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.pdb
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\MenuSetup.dll.config
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\MenuSetup.dll
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\MenuSetup.pdb
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\es\MenuSetup.resources.dll
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\Menus.exe
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\EntityFramework.dll
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\Menus.pdb
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\Menus.exe.config
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\EntityFramework.xml
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\es\Menus.resources.dll
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\fr-CA\Menus.resources.dll
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\es\MenuSetup.resources.dll
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\kiara\Downloads\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.Up2Date
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\MenuSetup.dll.config
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\MenuSetup.pdb
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\Menus.exe
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\EntityFramework.dll
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\Menus.pdb
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\Menus.exe.config
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\EntityFramework.xml
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\es\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\fr-CA\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.AssemblyReference.cache
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.MenuSetup.resources
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.Properties.Resources.resources
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.MenuSetup.es.resources
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.MenuSetup.fr-CA.resources
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.GenerateResource.cache
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.CoreCompileInputs.cache
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.Up2Date
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.pdb
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\es-BR\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\es-EC\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\es-GQ\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (4)\AppDevProject-main (3)\AppDevProject-main (2)\AppDevProject-main\MenuSetup\bin\Debug\es-ES\Menus.resources.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\MenuSetup.dll.config
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\MenuSetup.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\MenuSetup.pdb
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\es\MenuSetup.resources.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\Menus.exe
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\EntityFramework.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\Menus.pdb
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\Menus.exe.config
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\EntityFramework.xml
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\es\Menus.resources.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\es-BR\Menus.resources.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\es-EC\Menus.resources.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\es-ES\Menus.resources.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\es-GQ\Menus.resources.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\fr-CA\Menus.resources.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\fr-CF\Menus.resources.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.AssemblyReference.cache
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.MenuSetup.resources
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.Properties.Resources.resources
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.MenuSetup.es.resources
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.MenuSetup.fr-CA.resources
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.GenerateResource.cache
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.CoreCompileInputs.cache
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\obj\Debug\es\MenuSetup.resources.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\obj\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.Up2Date
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.pdb
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\en\Menus.resources.dll
+C:\Users\User11\Downloads\AppDevProject-main (1)\AppDevProject-main\MenuSetup\bin\Debug\fr\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\Comfy Cozy Cafe.exe
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\Menus.exe
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\EntityFramework.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\Menus.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\Menus.exe.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\Comfy Cozy Cafe.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\Comfy Cozy Cafe.exe.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\EntityFramework.xml
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\MenuSetup.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\MenuSetup.dll.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\en\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\en-CA\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\es\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\es-BR\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\es-EC\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\es-ES\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\es-GQ\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\fr\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\fr-CA\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\fr-CF\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\es\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\fr\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\fr-CA\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\bin\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.AssemblyReference.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.MenuSetup.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.Properties.Resources.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.MenuSetup.es.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.MenuSetup.fr-CA.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.GenerateResource.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.CoreCompileInputs.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\obj\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\obj\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main\MenuSetup\obj\Debug\MenuSetup.csproj.Up2Date
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\MenuSetup.dll.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\MenuSetup.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\Menus.exe
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\EntityFramework.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.exe
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\Menus.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\Menus.exe.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\EntityFramework.xml
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.exe.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\en\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\en-CA\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\es\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\es-BR\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\es-EC\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\es-ES\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\es-GQ\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\fr\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\fr-CA\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\fr-CF\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\es\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\fr\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\bin\Debug\fr-CA\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.AssemblyReference.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\obj\Debug\MenuSetup.Properties.Resources.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.es.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.fr-CA.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.GenerateResource.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.CoreCompileInputs.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\obj\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\obj\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.Up2Date
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\obj\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy\MenuSetup\obj\Debug\MenuSetup.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\MenuSetup.dll.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\MenuSetup.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\Menus.exe
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\EntityFramework.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.exe
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\Menus.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\Menus.exe.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\EntityFramework.xml
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.exe.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\en\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\en-CA\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\es\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\es-BR\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\es-EC\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\es-ES\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\es-GQ\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\fr\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\fr-CA\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\fr-CF\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\es\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\fr\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\bin\Debug\fr-CA\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.AssemblyReference.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.Properties.Resources.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.es.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.fr-CA.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.GenerateResource.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.CoreCompileInputs.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\obj\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\obj\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.Up2Date
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\AppDevProject-main - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\MenuSetup.dll.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\MenuSetup.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\Menus.exe
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\EntityFramework.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.exe
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\Menus.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\Menus.exe.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\EntityFramework.xml
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.exe.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\en\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\en-CA\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\es\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\es-BR\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\es-EC\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\es-ES\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\es-GQ\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\fr\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\fr-CA\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\fr-CF\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\es\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\fr\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\bin\Debug\fr-CA\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.AssemblyReference.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\obj\Debug\MenuSetup.Properties.Resources.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.es.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.fr-CA.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.GenerateResource.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.CoreCompileInputs.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\obj\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\obj\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.Up2Date
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\obj\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy\MenuSetup\obj\Debug\MenuSetup.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\MenuSetup.dll.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\MenuSetup.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\Menus.exe
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\EntityFramework.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.exe
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\Menus.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\Menus.exe.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\EntityFramework.xml
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.exe.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\en\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\en-CA\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\es\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\es-BR\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\es-EC\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\es-ES\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\es-GQ\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\fr\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\fr-CA\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\fr-CF\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\es\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\fr\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\bin\Debug\fr-CA\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.AssemblyReference.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.Properties.Resources.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.es.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.fr-CA.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.GenerateResource.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.CoreCompileInputs.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\obj\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\obj\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.Up2Date
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\MenuSetup.dll.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\MenuSetup.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\Menus.exe
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\EntityFramework.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.exe
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\Menus.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\Menus.exe.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\EntityFramework.xml
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.pdb
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\Comfy Cozy Cafe.exe.config
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\en\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\en-CA\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\es\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\es-BR\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\es-EC\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\es-ES\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\es-GQ\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\fr\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\fr-CA\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\fr-CF\Menus.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\es\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\fr\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\bin\Debug\fr-CA\Comfy Cozy Cafe.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.AssemblyReference.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.Properties.Resources.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.es.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.MenuSetup.fr-CA.resources
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.GenerateResource.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.CoreCompileInputs.cache
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\obj\Debug\es\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\obj\Debug\fr-CA\MenuSetup.resources.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.csproj.Up2Date
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.dll
+C:\Users\audre\Downloads\AppDevProject-main (5)\Final Copy Project - Copy - Copy - Copy\MenuSetup\obj\Debug\MenuSetup.pdb

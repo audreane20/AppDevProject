@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="TeaRaspberryLabel.Text" xml:space="preserve">
+    <value>Frambuesa</value>
+  </data>
+  <data name="TeaGreenLabel.Text" xml:space="preserve">
+    <value>Verde</value>
+  </data>
+  <data name="TeaHibiscusLabel.Text" xml:space="preserve">
+    <value>Hibisco</value>
+  </data>
+  <data name="TeaMintLabel.Text" xml:space="preserve">
+    <value>Menta</value>
+  </data>
+  <data name="TeaBlackLabel.Text" xml:space="preserve">
+    <value>Negro</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="TeaPriceLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>458, 39</value>
+  </data>
+  <data name="TeaAddToCart.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.8pt</value>
+  </data>
+  <data name="TeaAddToCart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>747, 33</value>
+  </data>
+  <data name="TeaAddToCart.Text" xml:space="preserve">
+    <value>Agregar al Carrito</value>
+  </data>
+  <data name="TeaAddOns.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.8pt</value>
+  </data>
+  <data name="TeaAddOns.Text" xml:space="preserve">
+    <value>Extras</value>
+  </data>
+  <data name="TeaQTYLabel.Text" xml:space="preserve">
+    <value>Cantidad</value>
+  </data>
+  <data name="TeaGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>471, 490</value>
+  </data>
+  <data name="TeaGroupBox.Text" xml:space="preserve">
+    <value>Tés</value>
+  </data>
+  <data name="HotDrinksTitleLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>739, 23</value>
+  </data>
+  <data name="HotDrinksTitleLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>295, 62</value>
+  </data>
+  <data name="HotDrinksTitleLabel.Text" xml:space="preserve">
+    <value>Bebidas Calientes</value>
+  </data>
+  <data name="WhiteHotChocoLabel.Text" xml:space="preserve">
+    <value>Chocolate Blanco</value>
+  </data>
+  <data name="HotChocoLabel.Text" xml:space="preserve">
+    <value>Chocolate Caliente</value>
+  </data>
+  <data name="HotChocoAddToCart.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.8pt</value>
+  </data>
+  <data name="HotChocoAddToCart.Text" xml:space="preserve">
+    <value>Agregar al Carrito</value>
+  </data>
+  <data name="HotChocoQTYLabel.Text" xml:space="preserve">
+    <value>Cantidad</value>
+  </data>
+  <data name="HotChocoGroupBox.Text" xml:space="preserve">
+    <value>Chocolates Calientes</value>
+  </data>
+  <data name="CappuccinoLabel.Text" xml:space="preserve">
+    <value>Capuchino</value>
+  </data>
+  <data name="CoffeeLabel.Text" xml:space="preserve">
+    <value>Café</value>
+  </data>
+  <data name="CoffeeAddToCart.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.8pt</value>
+  </data>
+  <data name="CoffeeAddToCart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>581, 57</value>
+  </data>
+  <data name="CoffeeAddToCart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 38</value>
+  </data>
+  <data name="CoffeeAddToCart.Text" xml:space="preserve">
+    <value>Agregar al Carrito</value>
+  </data>
+  <data name="CoffeeAddOns.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.8pt</value>
+  </data>
+  <data name="CoffeeAddOns.Text" xml:space="preserve">
+    <value>Extras</value>
+  </data>
+  <data name="CoffeeQTYLabel.Text" xml:space="preserve">
+    <value>Cantidad</value>
+  </data>
+  <data name="CoffeeGroupBox.Text" xml:space="preserve">
+    <value>Café Clásicos</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+</root>

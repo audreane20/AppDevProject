@@ -1,0 +1,1617 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="DanishQTY.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;CarmBanPecMuffinPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PastriesQTYlabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="BlueberryDanishPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="DBLChocoMuffinLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>393, 185</value>
+  </data>
+  <data name="BackgroundPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1714, 635</value>
+  </data>
+  <data name="Titlepicture2.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="ChocoChipMuffinLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;MuffinPriceLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;BlueberryDanishPic.Name" xml:space="preserve">
+    <value>BlueberryDanishPic</value>
+  </data>
+  <data name="&gt;&gt;DBLChocoMuffinPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BlueberryMuffinLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;CroissantPic.Parent" xml:space="preserve">
+    <value>ClassicPastriesGroupBox</value>
+  </data>
+  <data name="BlueberryDanishPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="PastriesQTY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>360, 42</value>
+  </data>
+  <data name="CarmBanPecMuffinPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ChocolatineLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="PastryTitleLabel.Text" xml:space="preserve">
+    <value>Pasteries</value>
+  </data>
+  <data name="CarmBanPecMuffinPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>784, 34</value>
+  </data>
+  <data name="ClassicGB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 245</value>
+  </data>
+  <data name="DBLChocoMuffinLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="CarmBanPecMuffinLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>779, 185</value>
+  </data>
+  <data name="DanishLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;Titlepicture1.Name" xml:space="preserve">
+    <value>Titlepicture1</value>
+  </data>
+  <data name="BlueberryMuffinLabel.Text" xml:space="preserve">
+    <value>Blueberry</value>
+  </data>
+  <data name="DanishGroupBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="PastriesQTYlabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 28</value>
+  </data>
+  <data name="&gt;&gt;DanishGB.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;PineappleDanishLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="PastriesAddToCart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>573, 34</value>
+  </data>
+  <data name="ChocoCroissantLabel.Text" xml:space="preserve">
+    <value>Chocolate Croissant</value>
+  </data>
+  <data name="&gt;&gt;CarmBanPecMuffinLabel.Name" xml:space="preserve">
+    <value>CarmBanPecMuffinLabel</value>
+  </data>
+  <data name="MuffinAddToCart.Text" xml:space="preserve">
+    <value>Add to Cart</value>
+  </data>
+  <data name="AppleDanishLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;ClassicPastriesGroupBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;DanishAddToCart.Parent" xml:space="preserve">
+    <value>DanishGB</value>
+  </data>
+  <data name="MuffinGB.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="AppleDanishPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;PineappleDanishLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CarmBanPecMuffinLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CranOrangeMuffinLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="ClassicGB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 100</value>
+  </data>
+  <data name="&gt;&gt;ClassicPastryPriceLabel.Name" xml:space="preserve">
+    <value>ClassicPastryPriceLabel</value>
+  </data>
+  <data name="&gt;&gt;DanishPic.Name" xml:space="preserve">
+    <value>DanishPic</value>
+  </data>
+  <data name="Titlepicture1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 50</value>
+  </data>
+  <data name="&gt;&gt;MuffinAddToCart.Parent" xml:space="preserve">
+    <value>MuffinGB</value>
+  </data>
+  <data name="&gt;&gt;DanishLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BlueberryDanishLabel.Name" xml:space="preserve">
+    <value>BlueberryDanishLabel</value>
+  </data>
+  <data name="PastriesAddToCart.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="BlueberryDanishLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="BlueberryDanishPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="&gt;&gt;CranOrangeMuffinPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="PastryTitleLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="CarmBanPecMuffinLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>175, 58</value>
+  </data>
+  <data name="&gt;&gt;PineappleDanishPic.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;ChocolatineLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ChocoCroissantLabel.Parent" xml:space="preserve">
+    <value>ClassicPastriesGroupBox</value>
+  </data>
+  <data name="AppleDanishPic.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;MuffinGB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BlueberryMuffinLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="MuffinAddToCart.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;PastriesQTYlabel.Parent" xml:space="preserve">
+    <value>ClassicGB</value>
+  </data>
+  <data name="ChocolatineLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 37</value>
+  </data>
+  <data name="&gt;&gt;PineappleDanishPic.Name" xml:space="preserve">
+    <value>PineappleDanishPic</value>
+  </data>
+  <data name="&gt;&gt;PastriesQTY.Name" xml:space="preserve">
+    <value>PastriesQTY</value>
+  </data>
+  <data name="Titlepicture1.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;MuffinAddToCart.Name" xml:space="preserve">
+    <value>MuffinAddToCart</value>
+  </data>
+  <data name="PastryTitleLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;BlueberryMuffinLabel.Name" xml:space="preserve">
+    <value>BlueberryMuffinLabel</value>
+  </data>
+  <data name="CroissantPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="PineappleDanishPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="MuffinAddToCart.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.8pt</value>
+  </data>
+  <data name="&gt;&gt;AppleDanishPic.Parent" xml:space="preserve">
+    <value>DanishGroupBox</value>
+  </data>
+  <data name="ChocolatinePic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ChocoCroissantLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 37</value>
+  </data>
+  <data name="&gt;&gt;PastriesAddToCart.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="BlueberryCheesecakeDanishLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;DanishLabel.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="BlueberryCheesecakeDanishLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="CarmBanPecMuffinLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="ChocoCroissantLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;DanishGB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PastriesQTY.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="DanishAddToCart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>573, 33</value>
+  </data>
+  <data name="ChocolatineLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;DBLChocoMuffinLabel.Parent" xml:space="preserve">
+    <value>MuffinGroupBox</value>
+  </data>
+  <data name="DBLChocoMuffinLabel.Text" xml:space="preserve">
+    <value>Double Chocolate</value>
+  </data>
+  <data name="&gt;&gt;AppleDanishLabel.Name" xml:space="preserve">
+    <value>AppleDanishLabel</value>
+  </data>
+  <data name="&gt;&gt;BlueberryCheesecakeDanishLabel.Name" xml:space="preserve">
+    <value>BlueberryCheesecakeDanishLabel</value>
+  </data>
+  <data name="AppleDanishPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="DanishQTY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>358, 43</value>
+  </data>
+  <data name="ClassicPastriesGroupBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12pt</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1714, 693</value>
+  </data>
+  <data name="DanishPriceLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="ChocoCroissantPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ChocoCroissantLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="CroissantLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 185</value>
+  </data>
+  <data name="&gt;&gt;BlueberryMuffinLabel.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;PastriesAddToCart.Name" xml:space="preserve">
+    <value>PastriesAddToCart</value>
+  </data>
+  <data name="MuffinPriceLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="BackgroundPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 58</value>
+  </data>
+  <data name="&gt;&gt;BackgroundPanel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="BlueberryMuffinPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="DBLChocoMuffinLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;CroissantLabel.Parent" xml:space="preserve">
+    <value>ClassicPastriesGroupBox</value>
+  </data>
+  <data name="BlueberryMuffinPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;ClassicPastriesGroupBox.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="DanishPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;AppleDanishLabel.Parent" xml:space="preserve">
+    <value>DanishGroupBox</value>
+  </data>
+  <data name="MuffinGB.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;ChocoCroissantPic.Parent" xml:space="preserve">
+    <value>ClassicPastriesGroupBox</value>
+  </data>
+  <data name="&gt;&gt;ChocolatineLabel.Parent" xml:space="preserve">
+    <value>ClassicPastriesGroupBox</value>
+  </data>
+  <data name="&gt;&gt;Titlepicture2.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="PineappleDanishLabel.Text" xml:space="preserve">
+    <value>Pineapple</value>
+  </data>
+  <data name="&gt;&gt;DanishAddToCart.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="CranOrangeMuffinLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="PastryTitleLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 19.8pt</value>
+  </data>
+  <data name="ChocoChipMuffinPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="&gt;&gt;BlueberryDanishPic.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;ChocolatinePic.Parent" xml:space="preserve">
+    <value>ClassicPastriesGroupBox</value>
+  </data>
+  <data name="&gt;&gt;MuffinQTY.Name" xml:space="preserve">
+    <value>MuffinQTY</value>
+  </data>
+  <data name="&gt;&gt;BlueberryDanishLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;BlueberryCheesecakeDanishLabel.Parent" xml:space="preserve">
+    <value>ClassicPastriesGroupBox</value>
+  </data>
+  <data name="BlueberryDanishPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;Titlepicture2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BlueberryCheesecakeDanishPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;AppleDanishLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="DanishAddToCart.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="PastryTitleLabel.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="AppleDanishPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="ChocoChipMuffinLabel.Text" xml:space="preserve">
+    <value>Chocolate Chip</value>
+  </data>
+  <data name="&gt;&gt;PastriesAddToCart.Parent" xml:space="preserve">
+    <value>ClassicGB</value>
+  </data>
+  <data name="MuffinQTYLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>396, 43</value>
+  </data>
+  <data name="&gt;&gt;MuffinGB.Parent" xml:space="preserve">
+    <value>MuffinGroupBox</value>
+  </data>
+  <data name="PineappleDanishLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="ClassicPastryPriceLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="DanishQTYLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;ChocolatineLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;DanishGroupBox.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="PastriesQTY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 35</value>
+  </data>
+  <data name="DanishPic.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;ChocoChipMuffinLabel.Parent" xml:space="preserve">
+    <value>MuffinGroupBox</value>
+  </data>
+  <data name="ChocoCroissantPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="PastriesQTY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="BackgroundPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="ChocoChipMuffinPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 34</value>
+  </data>
+  <data name="ClassicPastriesGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>47, 96</value>
+  </data>
+  <data name="&gt;&gt;DanishGB.Parent" xml:space="preserve">
+    <value>DanishGroupBox</value>
+  </data>
+  <data name="PastryTitleLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;DanishPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ChocoChipMuffinPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;CroissantPic.Name" xml:space="preserve">
+    <value>CroissantPic</value>
+  </data>
+  <data name="PineappleDanishPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 34</value>
+  </data>
+  <data name="AppleDanishLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 185</value>
+  </data>
+  <data name="&gt;&gt;BlueberryMuffinPic.Name" xml:space="preserve">
+    <value>BlueberryMuffinPic</value>
+  </data>
+  <data name="ClassicPastriesGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="CarmBanPecMuffinPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="ChocoChipMuffinLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;ClassicPastryPriceLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Titlepicture1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>626, 19</value>
+  </data>
+  <data name="BlueberryCheesecakeDanishPic.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;PastryTitleLabel.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;ChocoChipMuffinPic.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="ChocolatineLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;DanishQTYLabel.Parent" xml:space="preserve">
+    <value>DanishGB</value>
+  </data>
+  <data name="&gt;&gt;MuffinQTYLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="DanishGB.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="PastriesAddToCart.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;DanishGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CroissantPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 34</value>
+  </data>
+  <data name="DanishQTYLabel.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="&gt;&gt;BlueberryCheesecakeDanishLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="ChocoChipMuffinLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 185</value>
+  </data>
+  <data name="BlueberryCheesecakeDanishLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>175, 58</value>
+  </data>
+  <data name="DanishAddToCart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 50</value>
+  </data>
+  <data name="CranOrangeMuffinPic.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="DanishQTYLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="BlueberryMuffinLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="ChocoCroissantPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="&gt;&gt;Titlepicture2.Name" xml:space="preserve">
+    <value>Titlepicture2</value>
+  </data>
+  <data name="DanishAddToCart.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.8pt</value>
+  </data>
+  <data name="PineappleDanishPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="ClassicPastriesGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>791, 350</value>
+  </data>
+  <data name="ClassicPastriesGroupBox.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="PineappleDanishLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="DanishLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 185</value>
+  </data>
+  <data name="CroissantLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 37</value>
+  </data>
+  <data name="DanishPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CroissantPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="DBLChocoMuffinPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;PastriesQTY.Parent" xml:space="preserve">
+    <value>ClassicGB</value>
+  </data>
+  <data name="&gt;&gt;DanishQTYLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ClassicPastryPriceLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;ChocoChipMuffinPic.Parent" xml:space="preserve">
+    <value>MuffinGroupBox</value>
+  </data>
+  <data name="CranOrangeMuffinLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;MuffinGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ChocoChipMuffinPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;DanishQTY.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;BlueberryCheesecakeDanishLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="PineappleDanishPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;DanishPic.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="CroissantLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="MuffinGB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 245</value>
+  </data>
+  <data name="&gt;&gt;BackgroundPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BlueberryDanishLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="ChocolatinePic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="CroissantPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;DanishQTY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ChocoChipMuffinLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 37</value>
+  </data>
+  <data name="&gt;&gt;CarmBanPecMuffinPic.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;ClassicGB.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;DanishPriceLabel.Name" xml:space="preserve">
+    <value>DanishPriceLabel</value>
+  </data>
+  <data name="DanishPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 34</value>
+  </data>
+  <data name="DanishPriceLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>447, 40</value>
+  </data>
+  <data name="&gt;&gt;AppleDanishPic.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="DBLChocoMuffinLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 37</value>
+  </data>
+  <data name="Titlepicture1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="MuffinGB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>969, 100</value>
+  </data>
+  <data name="ChocolatinePic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="&gt;&gt;BlueberryDanishPic.Parent" xml:space="preserve">
+    <value>DanishGroupBox</value>
+  </data>
+  <data name="&gt;&gt;CranOrangeMuffinLabel.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="BlueberryCheesecakeDanishPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 34</value>
+  </data>
+  <data name="DanishQTY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 35</value>
+  </data>
+  <data name="&gt;&gt;CroissantPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DBLChocoMuffinPic.Name" xml:space="preserve">
+    <value>DBLChocoMuffinPic</value>
+  </data>
+  <data name="DanishQTYLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 28</value>
+  </data>
+  <data name="&gt;&gt;ChocolatinePic.Name" xml:space="preserve">
+    <value>ChocolatinePic</value>
+  </data>
+  <data name="&gt;&gt;CranOrangeMuffinPic.Parent" xml:space="preserve">
+    <value>MuffinGroupBox</value>
+  </data>
+  <data name="BlueberryDanishPic.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;DanishLabel.Name" xml:space="preserve">
+    <value>DanishLabel</value>
+  </data>
+  <data name="&gt;&gt;ChocoChipMuffinLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="BlueberryCheesecakeDanishLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;CarmBanPecMuffinLabel.Parent" xml:space="preserve">
+    <value>MuffinGroupBox</value>
+  </data>
+  <data name="PineappleDanishLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 37</value>
+  </data>
+  <data name="MuffinQTYLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="ChocoChipMuffinPic.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="DBLChocoMuffinLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="panel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="CroissantLabel.Text" xml:space="preserve">
+    <value>Croissant</value>
+  </data>
+  <data name="&gt;&gt;BlueberryMuffinPic.Parent" xml:space="preserve">
+    <value>MuffinGroupBox</value>
+  </data>
+  <data name="&gt;&gt;MuffinQTY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MuffinGB.Name" xml:space="preserve">
+    <value>MuffinGB</value>
+  </data>
+  <data name="DanishPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="ChocolatineLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;DanishGroupBox.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;DanishQTYLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Titlepicture2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1018, 19</value>
+  </data>
+  <data name="ChocoChipMuffinPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;CranOrangeMuffinLabel.Name" xml:space="preserve">
+    <value>CranOrangeMuffinLabel</value>
+  </data>
+  <data name="&gt;&gt;CranOrangeMuffinLabel.Parent" xml:space="preserve">
+    <value>MuffinGroupBox</value>
+  </data>
+  <data name="&gt;&gt;DanishQTY.Parent" xml:space="preserve">
+    <value>DanishGB</value>
+  </data>
+  <data name="&gt;&gt;DanishPic.Parent" xml:space="preserve">
+    <value>DanishGroupBox</value>
+  </data>
+  <data name="Titlepicture2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;ClassicPastryPriceLabel.Parent" xml:space="preserve">
+    <value>ClassicGB</value>
+  </data>
+  <data name="&gt;&gt;PastryTitleLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DanishGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="BlueberryDanishLabel.Text" xml:space="preserve">
+    <value>Blueberry</value>
+  </data>
+  <data name="&gt;&gt;ChocolatinePic.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;ChocoCroissantPic.Name" xml:space="preserve">
+    <value>ChocoCroissantPic</value>
+  </data>
+  <data name="CarmBanPecMuffinLabel.Text" xml:space="preserve">
+    <value>Caramel Banana Pecan</value>
+  </data>
+  <data name="MuffinGroupBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12pt</value>
+  </data>
+  <data name="Titlepicture2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1714, 635</value>
+  </data>
+  <data name="&gt;&gt;CroissantLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DanishLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="DBLChocoMuffinPic.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;CroissantPic.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="PineappleDanishLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;MuffinGroupBox.Name" xml:space="preserve">
+    <value>MuffinGroupBox</value>
+  </data>
+  <data name="DanishGroupBox.Text" xml:space="preserve">
+    <value>Danishes</value>
+  </data>
+  <data name="ChocoCroissantPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="CranOrangeMuffinLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="BlueberryMuffinLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 37</value>
+  </data>
+  <data name="ClassicPastriesGroupBox.Text" xml:space="preserve">
+    <value>Classic Pastries</value>
+  </data>
+  <data name="panel1.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="AppleDanishLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;MuffinGB.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="MuffinPriceLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>616, 44</value>
+  </data>
+  <data name="BlueberryDanishLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CroissantLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;MuffinPriceLabel.Name" xml:space="preserve">
+    <value>MuffinPriceLabel</value>
+  </data>
+  <data name="&gt;&gt;BlueberryMuffinPic.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;DanishAddToCart.Name" xml:space="preserve">
+    <value>DanishAddToCart</value>
+  </data>
+  <data name="&gt;&gt;ChocoChipMuffinLabel.Name" xml:space="preserve">
+    <value>ChocoChipMuffinLabel</value>
+  </data>
+  <data name="CarmBanPecMuffinPic.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="DanishQTYLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>256, 44</value>
+  </data>
+  <data name="&gt;&gt;CranOrangeMuffinLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="MuffinQTYLabel.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="&gt;&gt;ChocolatinePic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="MuffinQTY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="ChocoChipMuffinLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="DanishGB.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MuffinQTYLabel.Name" xml:space="preserve">
+    <value>MuffinQTYLabel</value>
+  </data>
+  <data name="ClassicPastriesGroupBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="CroissantPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="BlueberryCheesecakeDanishLabel.Text" xml:space="preserve">
+    <value>Blueberry Cheesecake Danish</value>
+  </data>
+  <data name="MuffinGroupBox.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="DBLChocoMuffinPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="&gt;&gt;DBLChocoMuffinPic.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;CarmBanPecMuffinPic.Name" xml:space="preserve">
+    <value>CarmBanPecMuffinPic</value>
+  </data>
+  <data name="&gt;&gt;MuffinQTYLabel.Parent" xml:space="preserve">
+    <value>MuffinGB</value>
+  </data>
+  <data name="PineappleDanishLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="MuffinGroupBox.Text" xml:space="preserve">
+    <value>Muffins</value>
+  </data>
+  <data name="&gt;&gt;MuffinQTY.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;Titlepicture1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="DanishGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>791, 350</value>
+  </data>
+  <data name="DanishGroupBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 12pt</value>
+  </data>
+  <data name="MuffinGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="MuffinPriceLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 37</value>
+  </data>
+  <data name="PastryTitleLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>269, 62</value>
+  </data>
+  <data name="&gt;&gt;BlueberryMuffinLabel.Parent" xml:space="preserve">
+    <value>MuffinGroupBox</value>
+  </data>
+  <data name="CroissantPic.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="BlueberryCheesecakeDanishPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="DanishGB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>779, 100</value>
+  </data>
+  <data name="PineappleDanishPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;MuffinPriceLabel.Parent" xml:space="preserve">
+    <value>MuffinGB</value>
+  </data>
+  <data name="CranOrangeMuffinPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 34</value>
+  </data>
+  <data name="PineappleDanishLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 185</value>
+  </data>
+  <data name="&gt;&gt;PastriesQTY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DanishQTY.Name" xml:space="preserve">
+    <value>DanishQTY</value>
+  </data>
+  <data name="&gt;&gt;PastryTitleLabel.Name" xml:space="preserve">
+    <value>PastryTitleLabel</value>
+  </data>
+  <data name="CranOrangeMuffinPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="DanishGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>880, 96</value>
+  </data>
+  <data name="&gt;&gt;DanishPriceLabel.Parent" xml:space="preserve">
+    <value>DanishGB</value>
+  </data>
+  <data name="DanishLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>161, 37</value>
+  </data>
+  <data name="CranOrangeMuffinLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>583, 185</value>
+  </data>
+  <data name="DanishGB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 245</value>
+  </data>
+  <data name="&gt;&gt;BlueberryMuffinPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CarmBanPecMuffinLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;ClassicPastriesGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DBLChocoMuffinPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>393, 34</value>
+  </data>
+  <data name="&gt;&gt;ChocoCroissantPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DanishPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;CroissantLabel.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;DanishGroupBox.Name" xml:space="preserve">
+    <value>DanishGroupBox</value>
+  </data>
+  <data name="&gt;&gt;DBLChocoMuffinPic.Parent" xml:space="preserve">
+    <value>MuffinGroupBox</value>
+  </data>
+  <data name="BlueberryDanishLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 37</value>
+  </data>
+  <data name="&gt;&gt;ChocoChipMuffinPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>BackgroundPanel</value>
+  </data>
+  <data name="&gt;&gt;DBLChocoMuffinLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;BlueberryCheesecakeDanishPic.Name" xml:space="preserve">
+    <value>BlueberryCheesecakeDanishPic</value>
+  </data>
+  <data name="PastriesQTYlabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;ChocoCroissantLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="BlueberryMuffinLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="ChocoChipMuffinLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="&gt;&gt;ClassicGB.Name" xml:space="preserve">
+    <value>ClassicGB</value>
+  </data>
+  <data name="ChocolatinePic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>393, 34</value>
+  </data>
+  <data name="&gt;&gt;DanishPriceLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Titlepicture2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="PastriesAddToCart.Text" xml:space="preserve">
+    <value>Add to Cart</value>
+  </data>
+  <data name="&gt;&gt;PastriesQTYlabel.Name" xml:space="preserve">
+    <value>PastriesQTYlabel</value>
+  </data>
+  <data name="&gt;&gt;AppleDanishPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ClassicPastryPriceLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>447, 41</value>
+  </data>
+  <data name="&gt;&gt;MuffinPriceLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CranOrangeMuffinLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>175, 58</value>
+  </data>
+  <data name="PastriesQTYlabel.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;ClassicGB.Parent" xml:space="preserve">
+    <value>ClassicPastriesGroupBox</value>
+  </data>
+  <data name="BlueberryCheesecakeDanishPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="BlueberryMuffinLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="MuffinGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>981, 350</value>
+  </data>
+  <data name="CranOrangeMuffinPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="MuffinPriceLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="ChocolatinePic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="BlueberryCheesecakeDanishLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>583, 185</value>
+  </data>
+  <data name="&gt;&gt;PastriesAddToCart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ClassicPastryPriceLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;BlueberryDanishLabel.Parent" xml:space="preserve">
+    <value>DanishGroupBox</value>
+  </data>
+  <data name="&gt;&gt;BlueberryDanishPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BlueberryDanishLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>393, 185</value>
+  </data>
+  <data name="&gt;&gt;ChocoCroissantPic.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="CranOrangeMuffinPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="AppleDanishPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 34</value>
+  </data>
+  <data name="&gt;&gt;BackgroundPanel.Name" xml:space="preserve">
+    <value>BackgroundPanel</value>
+  </data>
+  <data name="AppleDanishLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 37</value>
+  </data>
+  <data name="BlueberryMuffinPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 34</value>
+  </data>
+  <data name="ClassicPastryPriceLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 37</value>
+  </data>
+  <data name="&gt;&gt;DanishAddToCart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DanishLabel.Parent" xml:space="preserve">
+    <value>DanishGroupBox</value>
+  </data>
+  <data name="&gt;&gt;BlueberryCheesecakeDanishPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DanishPriceLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 37</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;PineappleDanishLabel.Name" xml:space="preserve">
+    <value>PineappleDanishLabel</value>
+  </data>
+  <data name="MuffinQTY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 35</value>
+  </data>
+  <data name="MuffinAddToCart.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="AppleDanishLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Pastries</value>
+  </data>
+  <data name="PastriesAddToCart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 50</value>
+  </data>
+  <data name="ChocoCroissantLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CarmBanPecMuffinLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;MuffinAddToCart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CroissantLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="Titlepicture2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 50</value>
+  </data>
+  <data name="DanishLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="DanishAddToCart.Text" xml:space="preserve">
+    <value>Add to Cart</value>
+  </data>
+  <data name="BlueberryMuffinPic.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;ClassicPastriesGroupBox.Name" xml:space="preserve">
+    <value>ClassicPastriesGroupBox</value>
+  </data>
+  <data name="DBLChocoMuffinPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;ChocoChipMuffinLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="CarmBanPecMuffinLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;PastriesQTYlabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BackgroundPanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="Titlepicture1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;MuffinGroupBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="MuffinAddToCart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="PastryTitleLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>731, 19</value>
+  </data>
+  <data name="MuffinQTY.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;DBLChocoMuffinLabel.Name" xml:space="preserve">
+    <value>DBLChocoMuffinLabel</value>
+  </data>
+  <data name="&gt;&gt;DanishQTYLabel.Name" xml:space="preserve">
+    <value>DanishQTYLabel</value>
+  </data>
+  <data name="CarmBanPecMuffinPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="&gt;&gt;MuffinQTYLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="MuffinQTY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>498, 42</value>
+  </data>
+  <data name="BackgroundPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;ChocoCroissantLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Titlepicture1.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="BlueberryDanishLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;MuffinQTY.Parent" xml:space="preserve">
+    <value>MuffinGB</value>
+  </data>
+  <data name="MuffinQTYLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;CarmBanPecMuffinLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Titlepicture1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;AppleDanishLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="AppleDanishPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ChocoCroissantPic.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="MuffinQTYLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="BlueberryDanishPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>393, 34</value>
+  </data>
+  <data name="AppleDanishLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="CarmBanPecMuffinPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="ChocolatineLabel.Text" xml:space="preserve">
+    <value>Chocolatine</value>
+  </data>
+  <data name="&gt;&gt;PineappleDanishLabel.Parent" xml:space="preserve">
+    <value>DanishGroupBox</value>
+  </data>
+  <data name="&gt;&gt;ClassicGB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CranOrangeMuffinPic.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="MuffinAddToCart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>763, 32</value>
+  </data>
+  <data name="&gt;&gt;PineappleDanishPic.Parent" xml:space="preserve">
+    <value>DanishGroupBox</value>
+  </data>
+  <data name="ChocolatinePic.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="BackgroundPanel.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="DanishLabel.Text" xml:space="preserve">
+    <value>Classic</value>
+  </data>
+  <data name="BlueberryMuffinLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 185</value>
+  </data>
+  <data name="&gt;&gt;CroissantLabel.Name" xml:space="preserve">
+    <value>CroissantLabel</value>
+  </data>
+  <data name="&gt;&gt;CarmBanPecMuffinPic.Parent" xml:space="preserve">
+    <value>MuffinGroupBox</value>
+  </data>
+  <data name="BlueberryCheesecakeDanishLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="ChocoCroissantLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="BlueberryMuffinPic.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;MuffinGroupBox.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="PineappleDanishPic.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;Titlepicture1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PastryTitleLabel.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="MuffinAddToCart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 50</value>
+  </data>
+  <data name="&gt;&gt;CranOrangeMuffinPic.Name" xml:space="preserve">
+    <value>CranOrangeMuffinPic</value>
+  </data>
+  <data name="CroissantLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;AppleDanishPic.Name" xml:space="preserve">
+    <value>AppleDanishPic</value>
+  </data>
+  <data name="DBLChocoMuffinPic.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="DBLChocoMuffinLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10.2pt</value>
+  </data>
+  <data name="DanishAddToCart.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>MenuSetup.MenuSetup, MenuSetup, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="MuffinGroupBox.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;MuffinAddToCart.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="BlueberryMuffinPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="PastriesAddToCart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;ChocoChipMuffinPic.Name" xml:space="preserve">
+    <value>ChocoChipMuffinPic</value>
+  </data>
+  <data name="PastriesQTYlabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>258, 43</value>
+  </data>
+  <data name="ChocoCroissantPic.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 34</value>
+  </data>
+  <data name="DanishQTY.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="&gt;&gt;PineappleDanishPic.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ChocoCroissantLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>197, 185</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>PastriesForm</value>
+  </data>
+  <data name="&gt;&gt;BlueberryCheesecakeDanishPic.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="PastriesQTYlabel.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="&gt;&gt;DBLChocoMuffinLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DanishLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;BlueberryDanishLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DanishAddToCart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="MuffinQTYLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 28</value>
+  </data>
+  <data name="MuffinGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>378, 466</value>
+  </data>
+  <data name="BlueberryCheesecakeDanishPic.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 150</value>
+  </data>
+  <data name="&gt;&gt;DanishGB.Name" xml:space="preserve">
+    <value>DanishGB</value>
+  </data>
+  <data name="DanishGroupBox.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="PastriesQTYlabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ChocolatineLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>393, 185</value>
+  </data>
+  <data name="PastriesQTY.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="&gt;&gt;ChocolatineLabel.Name" xml:space="preserve">
+    <value>ChocolatineLabel</value>
+  </data>
+  <data name="DanishQTYLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="&gt;&gt;ChocoCroissantLabel.Name" xml:space="preserve">
+    <value>ChocoCroissantLabel</value>
+  </data>
+  <data name="DanishPriceLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CranOrangeMuffinLabel.Text" xml:space="preserve">
+    <value>Cranberry Orange</value>
+  </data>
+  <data name="AppleDanishLabel.Text" xml:space="preserve">
+    <value>Apple</value>
+  </data>
+  <data name="ClassicGB.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;Titlepicture2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="CranOrangeMuffinPic.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="&gt;&gt;BlueberryCheesecakeDanishPic.Parent" xml:space="preserve">
+    <value>ClassicPastriesGroupBox</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="ClassicGB.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="&gt;&gt;DanishPriceLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>71</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>es</value>
+  </metadata>
+</root>
